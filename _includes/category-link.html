@@ -1,0 +1,7 @@
+{%- assign cat_page = site.pages | where: "category", include.name | first -%}
+{%- if cat_page -%}
+  {%- assign cat_url = cat_page.url -%}
+{%- else -%}
+  {%- assign cat_url = include.name | slugify | prepend: "/category/" | append: "/" -%}
+{%- endif -%}
+<a href="{{ cat_url | relative_url }}">{{ include.name }}</a>

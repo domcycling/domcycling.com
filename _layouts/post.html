@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<article class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %B %Y" }}</time>
+      {%- if page.categories.size > 0 %}
+      <span class="post-categories">&middot; in {% for cat in page.categories %}{% include category-link.html name=cat %}{% unless forloop.last %}, {% endunless %}{% endfor %}</span>
+      {%- endif %}
+    </p>
+    {% include tag-list.html tags=page.tags %}
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  {% if page.previous or page.next %}
+  <nav class="post-nav" aria-label="More posts">
+    {% if page.previous %}
+    <a class="post-nav-prev" href="{{ page.previous.url | relative_url }}">
+      <span class="post-nav-label">&larr; Older</span>
+      <span class="post-nav-title">{{ page.previous.title }}</span>
+    </a>
+    {% endif %}
+    {% if page.next %}
+    <a class="post-nav-next" href="{{ page.next.url | relative_url }}">
+      <span class="post-nav-label">Newer &rarr;</span>
+      <span class="post-nav-title">{{ page.next.title }}</span>
+    </a>
+    {% endif %}
+  </nav>
+  {% endif %}
+</article>

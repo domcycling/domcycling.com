@@ -1,0 +1,10 @@
+---
+layout: default
+---
+{% assign tag_posts = site.tags[page.tag] %}
+<header class="page-header">
+  <p class="page-kicker">Tag</p>
+  <h1 class="page-title">{{ page.tag }}</h1>
+  <p class="page-intro">{{ tag_posts.size }} {% if tag_posts.size == 1 %}post{% else %}posts{% endif %}</p>
+</header>
+{% include post-list.html posts=tag_posts %}

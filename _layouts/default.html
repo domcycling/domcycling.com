@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en-GB' }}">
+<head>
+  {%- if site.google_analytics and jekyll.environment == "production" %}
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics | url_encode }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', {{ site.google_analytics | jsonify }});
+  </script>
+  {%- endif %}
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% seo %}
+  {% feed_meta %}
+  {% if site.logo %}
+  <link rel="icon" href="{{ site.logo | relative_url }}">
+  <link rel="apple-touch-icon" href="{{ site.logo | relative_url }}">
+  {% endif %}
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Lora:ital,wght@0,400;0,700;1,400;1,700&display=swap">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <script src="{{ '/assets/js/site.js' | relative_url }}" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="site-brand" href="{{ '/' | relative_url }}">
+        {% if site.logo %}<img class="site-logo" src="{{ site.logo | relative_url }}" alt="" width="60" height="60">{% endif %}
+        <span class="site-title">{{ site.title }}</span>
+      </a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" hidden>Menu</button>
+      <nav class="site-nav" id="site-nav" aria-label="Main">
+        <ul class="menu">
+          {%- for item in site.navigation %}
+          {%- comment -%} A top-level item is current when its page or any page in its dropdown is. {%- endcomment -%}
+          {%- assign current = false %}
+          {%- if page.url == item.url %}{% assign current = true %}{% endif %}
+          {%- for child in item.children %}
+            {%- if page.url == child.url %}{% assign current = true %}{% endif %}
+            {%- for grandchild in child.children %}{% if page.url == grandchild.url %}{% assign current = true %}{% endif %}{% endfor %}
+          {%- endfor %}
+          <li class="menu-item{% if item.children %} has-children{% if item.children.size > 8 %} has-wide{% endif %}{% endif %}{% if current %} current{% endif %}">
+            {%- if item.children %}
+            {%- if item.url %}
+            {% include menu-link.html item=item %}
+            <button class="submenu-toggle" type="button" aria-expanded="false" aria-label="{{ item.title }} menu"></button>
+            {%- else %}
+            <button class="submenu-toggle menu-label" type="button" aria-expanded="false">{{ item.title }}</button>
+            {%- endif %}
+            {%- comment -%} Plain links share one set of columns; a child with its own children is a group beside them. {%- endcomment -%}
+            <div class="submenu">
+              <ul class="submenu-links">
+                {%- for child in item.children %}{% unless child.children %}
+                <li>{% include menu-link.html item=child %}</li>
+                {%- endunless %}{% endfor %}
+              </ul>
+              {%- for child in item.children %}{% if child.children %}
+              <div class="submenu-group">
+                {% include menu-link.html item=child %}
+                <ul class="submenu-links">
+                  {%- for grandchild in child.children %}
+                  <li>{% include menu-link.html item=grandchild %}</li>
+                  {%- endfor %}
+                </ul>
+              </div>
+              {%- endif %}{% endfor %}
+            </div>
+            {%- else %}
+            {% include menu-link.html item=item %}
+            {%- endif %}
+          </li>
+          {%- endfor %}
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap" id="content">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap footer-inner">
+      {%- if site.social_links %}
+      <ul class="social-links">
+        {%- for link in site.social_links %}
+        <li>{% include social-link.html url=link %}</li>
+        {%- endfor %}
+      </ul>
+      {%- endif %}
+      <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}
+        <!-- Not written yet: &middot; <a href="{{ '/about/' | relative_url }}">About</a> -->
+        &middot; <a href="{{ '/feed.xml' | relative_url }}">RSS</a></p>
+    </div>
+  </footer>
+</body>
+</html>

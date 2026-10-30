@@ -1,0 +1,18 @@
+---
+layout: default
+---
+{% assign category_posts = site.categories[page.category] %}
+{% assign subcategories = site.pages | where: "parent", page.category | sort_natural: "title" %}
+<header class="page-header">
+  <p class="page-kicker">Category{% if page.parent %} in {% include category-link.html name=page.parent %}{% endif %}</p>
+  <h1 class="page-title">{{ page.category }}</h1>
+  <p class="page-intro">{{ category_posts.size }} {% if category_posts.size == 1 %}post{% else %}posts{% endif %}</p>
+</header>
+{% if subcategories.size > 0 %}
+<ul class="tag-cloud subcategories">
+  {% for sub in subcategories %}
+  <li><a href="{{ sub.url | relative_url }}">{{ sub.category }} <span class="count">{{ site.categories[sub.category].size }}</span></a></li>
+  {% endfor %}
+</ul>
+{% endif %}
+{% include post-list.html posts=category_posts %}

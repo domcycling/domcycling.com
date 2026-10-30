@@ -1,0 +1,45 @@
+---
+layout: default
+title: Topics
+permalink: /tags/
+---
+<header class="page-header">
+  <h1 class="page-title">Topics</h1>
+</header>
+{% assign category_pages = site.pages | where: "layout", "category" | sort_natural: "title" %}
+{% if category_pages.size > 0 %}
+<section class="topic-section">
+  <h2>Categories</h2>
+  <ul class="category-tree">
+    {% for cat in category_pages %}
+    {% assign parent_page = nil %}
+    {% if cat.parent %}{% assign parent_page = category_pages | where: "category", cat.parent | first %}{% endif %}
+    {% unless parent_page %}
+    <li>
+      <a href="{{ cat.url | relative_url }}">{{ cat.category }}</a> <span class="count">{{ site.categories[cat.category].size }}</span>
+      {% assign children = category_pages | where: "parent", cat.category %}
+      {% if children.size > 0 %}
+      <ul>
+        {% for child in children %}
+        <li><a href="{{ child.url | relative_url }}">{{ child.category }}</a> <span class="count">{{ site.categories[child.category].size }}</span></li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+    </li>
+    {% endunless %}
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
+{% assign all_tags = site.tags | sort %}
+{% if all_tags.size > 0 %}
+<section class="topic-section">
+  <h2>Tags</h2>
+  <ul class="tag-cloud">
+    {% for tag in all_tags %}
+    {% assign tag_slug = tag[0] | slugify %}
+    <li><a href="{{ '/tag/' | append: tag_slug | append: '/' | relative_url }}">{{ tag[0] }} <span class="count">{{ tag[1].size }}</span></a></li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}

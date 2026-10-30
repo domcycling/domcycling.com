@@ -1,0 +1,6 @@
+{%- comment -%} One link in the main menu; an item without a url is a heading. {%- endcomment -%}
+{%- if include.item.url -%}
+<a href="{{ include.item.url | relative_url }}"{% if page.url == include.item.url %} aria-current="page"{% endif %}>{{ include.item.title }}</a>
+{%- else -%}
+<span class="menu-heading">{{ include.item.title }}</span>
+{%- endif -%}

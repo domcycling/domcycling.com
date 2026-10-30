@@ -1,0 +1,13 @@
+{% assign card = include.post %}
+<article class="card">
+  {% if card.image %}
+  <a class="card-image" href="{{ card.url | relative_url }}" tabindex="-1" aria-hidden="true">
+    <img src="{{ card.image | relative_url }}" alt="" loading="lazy">
+  </a>
+  {% endif %}
+  <div class="card-body">
+    <p class="post-meta"><time datetime="{{ card.date | date_to_xmlschema }}">{{ card.date | date: "%-d %B %Y" }}</time></p>
+    <h2 class="card-title"><a href="{{ card.url | relative_url }}">{{ card.title }}</a></h2>
+    <p class="card-excerpt">{{ card.content | strip_html | normalize_whitespace | truncatewords: 32 }}</p>
+  </div>
+</article>

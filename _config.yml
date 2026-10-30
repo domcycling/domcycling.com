@@ -1,0 +1,164 @@
+title: Dom Cycling
+url: https://domcycling.com
+baseurl: ''
+description: A blog about cycling and urbanism, by someone called Dom
+logo: https://f000.backblazeb2.com/file/domcycling/dom-cycling-3.png
+google_analytics: G-X6Q5ZD99ED
+social_links:
+- https://bsky.app/profile/domcycling.com
+- https://www.youtube.com/@domcycling
+- https://www.tiktok.com/@dom.cycling
+lang: en-GB
+theme: null
+permalink: /:year/:month/:day/:title/
+timezone: UTC
+paginate: 12
+paginate_path: /page/:num/
+plugins:
+- jekyll-paginate
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-redirect-from
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+navigation:
+- title: Home
+  url: /
+- title: Camping
+  url: /category/camping/
+- title: Series
+  url: /category/series/
+  children:
+  - title: Netherlands 15
+    url: /category/series/netherlands-15/
+  - title: Netherlands 16
+    url: /category/series/netherlands-16/
+  - title: Netherlands 17
+    url: /series/netherlands-17/
+  - title: Netherlands 18
+    url: /series/netherlands-18/
+  - title: Netherlands 19
+    url: /series/netherlands-19/
+  - title: Netherlands 22
+    url: /category/series/netherlands-22/
+  - title: Germany 22
+    url: /category/series/germany-22/
+  - title: Somerset 23
+    url: /category/series/somerset-23/
+  - title: Helsinki 23
+    url: /category/series/helsinki-23/
+  - title: Berlin 23
+    url: /series/berlin-23/
+  - title: Paris 24
+    url: /paris-24/
+  - title: Netherlands 24
+    url: /series/netherlands-24/
+  - title: Netherlands 25
+    url: /series/netherlands-25/
+- title: Locations
+  children:
+  - title: Bath
+    url: /tag/bath/
+  - title: Berlin
+    url: /tag/berlin/
+  - title: Bristol
+    url: /tag/bristol/
+  - title: Center Parcs
+    url: /category/center-parcs/
+  - title: Finland
+    url: /category/finland/
+  - title: France
+    url: /category/france/
+  - title: Germany
+    url: /category/germany/
+  - title: India
+    url: /category/india/
+  - title: Kent
+    url: /category/kent/
+  - title: London
+    url: /category/london/
+  - title: Manchester
+    url: /category/manchester/
+  - title: Netherlands
+    url: /category/netherlands/
+    children:
+    - title: Amersfoort
+      url: /tag/amersfoort/
+    - title: Amsterdam
+      url: /tag/amsterdam/
+    - title: Amsterdam-Noord
+      url: /tag/amsterdam-noord/
+    - title: Den Haag (The Hague)
+      url: /tag/den-haag/
+    - title: Duinrell
+      url: /duinrell/
+    - title: Enkhuizen
+      url: /tag/enkhuizen/
+    - title: Haarlem
+      url: /tag/haarlem/
+    - title: Harderwijk
+      url: /tag/harderwijk/
+    - title: Hulshorst
+      url: /tag/hulshorst/
+    - title: Katwijk
+      url: /tag/katwijk-aan-zee/
+    - title: Leiden
+      url: /tag/leiden/
+    - title: Noordwijk
+      url: /tag/noordwijk-aan-zee/
+    - title: Rotterdam
+      url: /tag/rotterdam/
+    - title: Utrecht
+      url: /tag/utrecht/
+    - title: Voorburg
+      url: /tag/voorburg/
+    - title: Wassenaar
+      url: /tag/wassenaar/
+    - title: Zaandam
+      url: /tag/zaandam/
+    - title: Zeeland
+      url: /tag/zeeland/
+  - title: Paris
+    url: /tag/paris/
+  - title: Salford
+    url: /category/salford/
+  - title: Somerset
+    url: /category/somerset/
+  - title: Stockport
+    url: /category/stockport/
+  - title: Stretford
+    url: /category/stretford/
+  - title: Trafford
+    url: /category/trafford/
+- title: Mass rides
+  children:
+  - title: Manchester Critical Mass
+    url: /criticalmass/
+  - title: City Rides
+    url: /category/city-rides/
+  - title: Kidical Mass
+    url: /category/kidical-mass/
+  - title: '#space4cycling'
+    url: /category/space4cycling/
+- title: More
+  children:
+  - title: Communities
+    url: /category/communities/
+  - title: National Cycle Network
+    url: /category/national-cycle-network/
+  - title: Reviews
+    url: /category/reviews/
+  - title: Transport
+    url: /category/transport/
+  - title: Archive
+    url: /archive/
+  - title: Topics
+    url: /tags/
+exclude:
+- Gemfile
+- Gemfile.lock
+- vendor
+- README.md

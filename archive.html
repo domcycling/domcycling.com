@@ -1,0 +1,16 @@
+---
+layout: default
+title: Archive
+permalink: /archive/
+---
+<header class="page-header">
+  <h1 class="page-title">Archive</h1>
+  <p class="page-intro">{{ site.posts.size }} posts</p>
+</header>
+{% assign years = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+{% for year in years %}
+<section class="archive-year">
+  <h2 id="y{{ year.name }}">{{ year.name }}</h2>
+  {% include post-list.html posts=year.items %}
+</section>
+{% endfor %}
