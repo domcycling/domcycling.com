@@ -1,0 +1,21 @@
+---
+# The search page's index: one record per post, newest first.  assets/js/search.js
+# searches the title, excerpt, categories and tags; image and date are only shown.
+permalink: /search.json
+layout: null
+sitemap: false
+---
+[
+{%- for post in site.posts %}
+  {
+    "id": {{ forloop.index }},
+    "title": {{ post.title | jsonify }},
+    "url": {{ post.url | relative_url | jsonify }},
+    "date": {{ post.date | date: "%-d %B %Y" | jsonify }},
+    "excerpt": {{ post.excerpt | strip_html | replace: "&amp;", "&" | normalize_whitespace | truncatewords: 32 | jsonify }},
+    "categories": {{ post.categories | jsonify }},
+    "tags": {{ post.tags | jsonify }},
+    "image": {% if post.image %}{{ post.image | relative_url | jsonify }}{% else %}""{% endif %}
+  }{% unless forloop.last %},{% endunless %}
+{%- endfor %}
+]

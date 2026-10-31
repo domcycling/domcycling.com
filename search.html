@@ -1,0 +1,19 @@
+---
+layout: default
+title: Search
+permalink: /search/
+sitemap: false
+---
+<header class="page-header">
+  <h1 class="page-title">Search</h1>
+</header>
+<form class="search-form" action="{{ '/search/' | relative_url }}" data-index="{{ '/search.json' | relative_url }}" role="search">
+  <label for="search-box">Search post titles, summaries, categories and tags</label>
+  <input class="search-box" id="search-box" type="search" name="q" autocomplete="off">
+</form>
+<p class="search-status" aria-live="polite"></p>
+<p class="search-fallback" hidden>Search isn't working right now. You can browse the <a href="{{ '/archive/' | relative_url }}">Archive</a> or <a href="{{ '/tags/' | relative_url }}">Topics</a> instead.</p>
+<noscript><p class="search-noscript">Search needs JavaScript. You can browse the <a href="{{ '/archive/' | relative_url }}">Archive</a> or <a href="{{ '/tags/' | relative_url }}">Topics</a> instead.</p></noscript>
+<ul class="search-results"></ul>
+<script src="{{ '/assets/js/minisearch.min.js' | relative_url }}" defer></script>
+<script src="{{ '/assets/js/search.js' | relative_url }}" defer></script>
