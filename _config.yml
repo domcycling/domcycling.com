@@ -4,6 +4,7 @@ baseurl: ''
 description: A blog about cycling and urbanism, by someone called Dom
 logo: https://f000.backblazeb2.com/file/domcycling/dom-cycling-3.png
 google_analytics: G-X6Q5ZD99ED
+google_my_map: 1t604Hoz4WyCW9ApULpSd9prWDlu78Ms
 social_links:
 - https://bsky.app/profile/domcycling.com
 - https://www.youtube.com/@domcycling
@@ -133,6 +134,8 @@ navigation:
     url: /category/stretford/
   - title: Trafford
     url: /category/trafford/
+- title: Map
+  url: /map/
 - title: Mass rides
   children:
   - title: Manchester Critical Mass

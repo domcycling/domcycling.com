@@ -191,7 +191,9 @@ a:hover { text-decoration: underline; }
 .search-link:hover, .search-link[aria-current] { color: var(--accent); }
 .search-link svg { display: block; }
 
-@media (max-width: 760px) {
+/* The full menu needs about 920px on one row beside the logo, so tablets in
+   portrait get the Menu button too. */
+@media (max-width: 960px) {
   .nav-toggle:not([hidden]) { display: block; }
   /* The search link sits before the Menu button, with the open menu below
      both.  A smaller logo leaves room for all three on one row. */
@@ -389,6 +391,7 @@ main.wrap { padding-top: 32px; padding-bottom: 56px; }
 .embed { margin: 1.8em 0; }
 .embed iframe { display: block; width: 100%; aspect-ratio: 4 / 3; border: 0; border-radius: 6px; }
 .embed-video iframe { aspect-ratio: 16 / 9; }
+.embed-map iframe { aspect-ratio: 3 / 2; min-height: 420px; }
 
 /* YouTube thumbnails (made clickable by site.js). */
 a.video { position: relative; display: block; margin: 0; border-radius: 6px; overflow: hidden; }
