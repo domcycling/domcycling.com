@@ -121,7 +121,7 @@ With the addition of the new walking and cycling route, it's great to be able to
 
 ## Map
 
-<div class="embed"><iframe src="https://www.google.com/maps/d/u/0/embed?mid=1W1uTDucbZzY9HdOuhpHhRJn77Tj0tPiY" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><a class="embed-hold" href="https://www.google.com/maps/d/u/0/embed?mid=1W1uTDucbZzY9HdOuhpHhRJn77Tj0tPiY"><span class="embed-hold-label">Show map</span><span class="embed-hold-note">Google Maps may set cookies</span></a></div>
 
 ## Gallery
 

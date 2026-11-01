@@ -1,0 +1,35 @@
+---
+layout: page
+title: Privacy and cookies
+permalink: /privacy/
+---
+<p>This page explains what {{ site.title }} stores on your device, and which other services are involved when you read it.</p>
+
+<h2>Your choice</h2>
+<p>Nothing optional runs unless you accept it.{% if site.google_analytics %} You can change your mind at any time with the Cookie settings button at the foot of every page.{% endif %} Your choice is kept in your browser's local storage as <code>cookie-choice</code> for 12 months, and is not sent anywhere.</p>
+
+{% if site.google_analytics -%}
+<h2>Analytics</h2>
+<p>If you accept, this site uses Google Analytics to count visits and see which pages are read. Google sets the cookies <code>_ga</code> and <code>_ga_*</code>, which last up to two years. If you decline, Google Analytics isn't loaded, and if you change to Decline later these cookies are removed. See <a href="https://policies.google.com/privacy">Google's privacy policy</a>.</p>
+
+{% endif -%}
+<h2>Maps, routes and videos</h2>
+<p>Some pages show content from other sites: maps from Google Maps, routes from Komoot, and videos from Vimeo and YouTube. These sites can set their own cookies, so this content only loads if you have accepted cookies, or when you select its Show button. Selecting one loads that item only. Any cookies they set belong to those sites, and this site can't remove them, but you can clear them in your browser's settings. See the privacy policies of <a href="https://policies.google.com/privacy">Google</a> (Google Maps and YouTube), <a href="https://www.komoot.com/privacy">Komoot</a> and <a href="https://vimeo.com/privacy">Vimeo</a>.</p>
+
+<h2>Other services</h2>
+<p>Like any website, these services receive your device's internet address when your browser requests something from them. They don't set cookies for this site:</p>
+<ul>
+  <li>GitHub Pages hosts the site.</li>
+  <li>Google Fonts provides the fonts.</li>
+  <li>Backblaze may host the photos.</li>
+  <li>YouTube provides the video thumbnails.</li>
+</ul>
+
+{% if site.contact_email_encoded or site.social_links -%}
+<h2>Questions</h2>
+{% if site.contact_email_encoded -%}
+<p>To ask about any of this, email <span data-email="{{ site.contact_email_encoded }}">the address shown here when JavaScript is on</span>.</p>
+{%- else -%}
+<p>To ask about any of this, contact the author through one of the profiles linked at the foot of this page.</p>
+{%- endif %}
+{%- endif %}

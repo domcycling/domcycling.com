@@ -1,17 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: 'en-GB' }}">
 <head>
-  {%- if site.google_analytics and jekyll.environment == "production" %}
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics | url_encode }}"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', {{ site.google_analytics | jsonify }});
-  </script>
-  {%- endif %}
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {% seo %}
@@ -23,10 +12,21 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Lora:ital,wght@0,400;0,700;1,400;1,700&display=swap">
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-  <script src="{{ '/assets/js/site.js' | relative_url }}" defer></script>
+  {%- comment -%} GitHub Pages lets browsers keep files for 10 minutes; a new address per build means a new page never gets old styles. {%- endcomment %}
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v={{ site.time | date: '%s' }}">
+  <script src="{{ '/assets/js/site.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
 </head>
 <body>
+  {%- if site.google_analytics %}
+  {%- comment -%} site.js shows this and loads Google Analytics after Accept; only production builds name the ID, so previews aren't counted. {%- endcomment %}
+  <section class="cookie-banner" aria-label="Cookies"{% if jekyll.environment == "production" %} data-analytics-id="{{ site.google_analytics | escape }}"{% endif %} hidden>
+    <p>This site would like to use optional cookies for Google Analytics, and for maps, routes and videos from other sites. <a href="{{ '/privacy/' | relative_url }}">Privacy and cookies</a></p>
+    <div class="cookie-buttons">
+      <button class="cookie-button" type="button" data-cookie-choice="accepted">Accept</button>
+      <button class="cookie-button" type="button" data-cookie-choice="declined">Decline</button>
+    </div>
+  </section>
+  {%- endif %}
   <header class="site-header">
     <div class="wrap header-inner">
       <a class="site-brand" href="{{ '/' | relative_url }}">
@@ -99,7 +99,11 @@
       <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}
         &middot; <a href="{{ '/' | relative_url }}">Home</a>
         <!-- Not written yet: &middot; <a href="{{ '/about/' | relative_url }}">About</a> -->
-        &middot; <a href="{{ '/feed.xml' | relative_url }}">RSS</a></p>
+        &middot; <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
+        &middot; <a href="{{ '/privacy/' | relative_url }}">Privacy</a>
+        {%- if site.google_analytics %}
+        <span class="cookie-settings" hidden>&middot; <button type="button">Cookie settings</button></span>
+        {%- endif %}</p>
     </div>
   </footer>
 </body>

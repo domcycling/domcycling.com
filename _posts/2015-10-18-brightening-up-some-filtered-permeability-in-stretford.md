@@ -33,7 +33,7 @@ Taken from [Google Street View](https://www.google.co.uk/maps/@53.4621428,-2.288
 ![Railway Road before filtered permeability](https://f000.backblazeb2.com/file/domcycling/2015-10-18-brightening-up-some-filtered-permeability-in-stretford/railwayroadstreetview.webp){: loading="lazy"}
 *Railway Road before filtered permeability*
 
-<div class="embed"><iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d2375.372449348333!2d-2.292508784037775!3d53.461803473757676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x487bae737ecaf0f3%3A0x7e1c942386ebf77f!2sRailway+Rd%2C+Stretford%2C+Manchester+M32+0RZ%2C+UK!3m2!1d53.4618003!2d-2.2903200999999997!5e0!3m2!1sen!2suk!4v1445183146990" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><a class="embed-hold" href="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d2375.372449348333!2d-2.292508784037775!3d53.461803473757676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x487bae737ecaf0f3%3A0x7e1c942386ebf77f!2sRailway+Rd%2C+Stretford%2C+Manchester+M32+0RZ%2C+UK!3m2!1d53.4618003!2d-2.2903200999999997!5e0!3m2!1sen!2suk!4v1445183146990"><span class="embed-hold-label">Show map</span><span class="embed-hold-note">Google Maps may set cookies</span></a></div>
 
 To see more of the wonderful work that Gorgeous Gorse Hill and Caroline Daly have done, see the following:
 

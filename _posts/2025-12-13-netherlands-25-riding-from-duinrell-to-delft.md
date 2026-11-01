@@ -121,7 +121,7 @@ At the time we were there, a lot of work was being carried out at the cycle park
 ![On Houttuinen, approaching Delft Station](https://f000.backblazeb2.com/file/domcycling/2025-12-13-netherlands-25-riding-from-duinrell-to-delft/img_2499.webp){: loading="lazy"}
 </div>
 
-[![Route map on Komoot](https://www.komoot.com/tour/2688118223/embed?share_token=aKqAHL1WOz4kwWleTuuk0NejyH4YaPP7EfrL5rJPDOXP5E66Be&image=1&hm=false&width=640&height=800){: loading="lazy"}](https://www.komoot.com/tour/2688118223?share_token=aKqAHL1WOz4kwWleTuuk0NejyH4YaPP7EfrL5rJPDOXP5E66Be&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2688118223?share_token=aKqAHL1WOz4kwWleTuuk0NejyH4YaPP7EfrL5rJPDOXP5E66Be&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2688118223/embed?share_token=aKqAHL1WOz4kwWleTuuk0NejyH4YaPP7EfrL5rJPDOXP5E66Be&amp;image=1&amp;hm=false&amp;width=640&amp;height=800" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 ## Wandering round Delft
 
@@ -304,7 +304,7 @@ Leaving the cycle parking at Delft Station, we followed pretty much the same rou
 ![Riding back along Groot Haesebroekseweg](https://f000.backblazeb2.com/file/domcycling/2025-12-13-netherlands-25-riding-from-duinrell-to-delft/img_2821.webp){: loading="lazy"}
 </div>
 
-[![Route map on Komoot](https://www.komoot.com/tour/2688118724/embed?share_token=aaiUsZs32T9YcJS1K2bV704V3K3fSyCJXmHPeYyHhrwEkGE7cI&image=1&hm=false&width=640&height=800){: loading="lazy"}](https://www.komoot.com/tour/2688118724?share_token=aaiUsZs32T9YcJS1K2bV704V3K3fSyCJXmHPeYyHhrwEkGE7cI&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2688118724?share_token=aaiUsZs32T9YcJS1K2bV704V3K3fSyCJXmHPeYyHhrwEkGE7cI&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2688118724/embed?share_token=aaiUsZs32T9YcJS1K2bV704V3K3fSyCJXmHPeYyHhrwEkGE7cI&amp;image=1&amp;hm=false&amp;width=640&amp;height=800" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 ## More Netherlands 25 posts
 

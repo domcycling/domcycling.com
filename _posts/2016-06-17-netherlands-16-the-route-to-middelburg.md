@@ -84,7 +84,7 @@ Despite the less than brilliant weather, we had a very enjoyable ride to Middelb
 
 [![YouTube video](https://img.youtube.com/vi/qBfMf5kX2Xs/hqdefault.jpg)](https://www.youtube.com/watch?v=qBfMf5kX2Xs)
 
-<div class="embed"><iframe src="https://www.google.com/maps/d/embed?mid=1YI31rK5-z471f6xUsGpQTzoBXII" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><a class="embed-hold" href="https://www.google.com/maps/d/embed?mid=1YI31rK5-z471f6xUsGpQTzoBXII"><span class="embed-hold-label">Show map</span><span class="embed-hold-note">Google Maps may set cookies</span></a></div>
 
 <div class="gallery" markdown="1">
 ![](https://f000.backblazeb2.com/file/domcycling/2016-06-17-netherlands-16-the-route-to-middelburg/dsc_7973.webp){: loading="lazy"}

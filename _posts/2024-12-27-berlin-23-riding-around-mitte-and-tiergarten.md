@@ -184,7 +184,7 @@ This ride around Mitte and Tiergarten was just the first taste of much more cycl
 
 ## Map
 
-<div class="embed"><iframe src="https://www.google.com/maps/d/u/6/embed?mid=12xceEHdbUFbYsZxfR05fYfpUtehNYcQ&amp;ehbc=2E312F" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><a class="embed-hold" href="https://www.google.com/maps/d/u/6/embed?mid=12xceEHdbUFbYsZxfR05fYfpUtehNYcQ&amp;ehbc=2E312F"><span class="embed-hold-label">Show map</span><span class="embed-hold-note">Google Maps may set cookies</span></a></div>
 
 ## More Berlin 23 posts
 

@@ -56,7 +56,7 @@ After our ice creams, we headed back towards Amsterdamsestraatweg and back to o
 ![DSC_0638](https://f000.backblazeb2.com/file/domcycling/2017-07-07-netherlands-17-the-route-to-griftpark/dsc_0638.webp){: loading="lazy"}
 *Riding back to our apartment, along Amsterdamsestraatweg*
 
-<div class="embed"><iframe src="https://www.google.com/maps/d/u/0/embed?mid=1FMEKY00V3lhtUcpZyjiPq0wK5dQ" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><a class="embed-hold" href="https://www.google.com/maps/d/u/0/embed?mid=1FMEKY00V3lhtUcpZyjiPq0wK5dQ"><span class="embed-hold-label">Show map</span><span class="embed-hold-note">Google Maps may set cookies</span></a></div>
 
 <div class="gallery" markdown="1">
 ![](https://f000.backblazeb2.com/file/domcycling/2017-07-07-netherlands-17-the-route-to-griftpark/dsc_0574-e1672175124769.webp){: loading="lazy"}

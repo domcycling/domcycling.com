@@ -69,9 +69,9 @@ At the end of Croeselaan, it was a short ride through Daalsetunnel and I was b
 ![P1230399](https://f000.backblazeb2.com/file/domcycling/2017-07-02-netherlands-17-around-utrecht-centre/p1230399.webp){: loading="lazy"}
 *Riding towards Daalsetunnel, passing under the railway lines*
 
-<div class="embed embed-video"><iframe src="https://www.youtube-nocookie.com/embed/videoseries?list=PLQFbamwhyK-P0P1sa--u24UnOuZXhWBH5" title="YouTube playlist" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed embed-video"><a class="embed-hold" href="https://www.youtube-nocookie.com/embed/videoseries?list=PLQFbamwhyK-P0P1sa--u24UnOuZXhWBH5" data-embed-title="YouTube playlist"><span class="embed-hold-label">Show playlist</span><span class="embed-hold-note">YouTube may set cookies</span></a></div>
 
-<div class="embed"><iframe src="https://www.google.com/maps/d/u/0/embed?mid=1uKbZHMCcYWsH-PAe6WiaTMPmJ6s" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><a class="embed-hold" href="https://www.google.com/maps/d/u/0/embed?mid=1uKbZHMCcYWsH-PAe6WiaTMPmJ6s"><span class="embed-hold-label">Show map</span><span class="embed-hold-note">Google Maps may set cookies</span></a></div>
 
 <div class="gallery" markdown="1">
 ![](https://f000.backblazeb2.com/file/domcycling/2017-07-02-netherlands-17-around-utrecht-centre/dsc_0530.webp){: loading="lazy"}

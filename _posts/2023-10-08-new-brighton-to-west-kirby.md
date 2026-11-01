@@ -69,7 +69,7 @@ I stopped for a well-deserved coffee and ice cream, and found a spot along the w
 
 I do really like this part of the Wirral and I've said I could easily see myself retiring here. It was great to do a bit of cycling round here. At some point, I'll return and do the whole of the Wirral Circular Trail.
 
-<div class="embed"><iframe src="https://www.google.com/maps/d/u/0/embed?mid=125WuZGIyQDLe-mwtWH6sl4qQQxC-1gQ&amp;ehbc=2E312F" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><a class="embed-hold" href="https://www.google.com/maps/d/u/0/embed?mid=125WuZGIyQDLe-mwtWH6sl4qQQxC-1gQ&amp;ehbc=2E312F"><span class="embed-hold-label">Show map</span><span class="embed-hold-note">Google Maps may set cookies</span></a></div>
 
 <div class="gallery" markdown="1">
 ![](https://f000.backblazeb2.com/file/domcycling/2023-10-08-new-brighton-to-west-kirby/20231007_132055-1.webp){: loading="lazy"}

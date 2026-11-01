@@ -129,7 +129,7 @@ Arriving in Voorschoten, I turned right and made my way to Voorschoten station, 
 
 ## Route
 
-[![Route map on Komoot](https://www.komoot.com/tour/2683761729/embed?share_token=am1HpUk3kJg2lXqFyPvlQ3N6AKVuUrakI3tBEGHKLV0cqiPpY4&image=1&hm=false&width=640&height=800){: loading="lazy"}](https://www.komoot.com/tour/2683761729?share_token=am1HpUk3kJg2lXqFyPvlQ3N6AKVuUrakI3tBEGHKLV0cqiPpY4&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2683761729?share_token=am1HpUk3kJg2lXqFyPvlQ3N6AKVuUrakI3tBEGHKLV0cqiPpY4&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2683761729/embed?share_token=am1HpUk3kJg2lXqFyPvlQ3N6AKVuUrakI3tBEGHKLV0cqiPpY4&amp;image=1&amp;hm=false&amp;width=640&amp;height=800" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 ## More Netherlands 25 posts
 

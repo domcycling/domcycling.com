@@ -140,7 +140,7 @@ I was soon back at Duinrell, after a pleasant few hours exploring. While there's
 
 It's infrastructure like this that enables people to live vastly different lives to those in the UK and elsewhere, ones that aren't so dependent on cars.
 
-<div class="embed"><iframe src="https://www.google.co.uk/maps/d/u/0/embed?mid=1i_P8oOvOvHUXvD51HCW846Fg6l0shjy1" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><a class="embed-hold" href="https://www.google.co.uk/maps/d/u/0/embed?mid=1i_P8oOvOvHUXvD51HCW846Fg6l0shjy1"><span class="embed-hold-label">Show map</span><span class="embed-hold-note">Google Maps may set cookies</span></a></div>
 
 <div class="gallery" markdown="1">
 ![](https://f000.backblazeb2.com/file/domcycling/2019-09-28-netherlands-19-the-route-to-voorburg/20190603_150301.webp){: loading="lazy"}

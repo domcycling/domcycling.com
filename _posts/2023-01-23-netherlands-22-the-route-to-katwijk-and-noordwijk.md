@@ -35,7 +35,7 @@ I then continued onto Zeeweg, with it's red paved cycle path. This looked to be 
 
 Along Zeeweg, there was an interesting and new looking walking and cycling underpass, passing under the road, with ramps either side. I took a couple of photos, but with hindsight, I should have stopped for a closer look.
 
-<div class="embed"><iframe src="https://www.google.com/maps/embed?pb=!4v1674413478970!6m8!1m7!1sg0VWjqGsp-MDbl9Y9kirnA!2m2!1d52.19889404080384!2d4.4174679216028!3f49.42631677038764!4f-12.861419802446775!5f0.7820865974627469" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><a class="embed-hold" href="https://www.google.com/maps/embed?pb=!4v1674413478970!6m8!1m7!1sg0VWjqGsp-MDbl9Y9kirnA!2m2!1d52.19889404080384!2d4.4174679216028!3f49.42631677038764!4f-12.861419802446775!5f0.7820865974627469"><span class="embed-hold-label">Show map</span><span class="embed-hold-note">Google Maps may set cookies</span></a></div>
 
 According to Google Maps, this is a relatively new development, as previously there was an at-grade signalled crossing here. Replacing the crossing with an underpass, massively improves safety, while improving traffic flow, so everyone wins. As there's housing both sides of Zeeweg, plus a school and sports facilities. I suspect it was quite a busy junction previously.
 
@@ -219,7 +219,7 @@ I was soon back along the route I came out on, along the N441 Wassenaarseweg/Kat
 
 ## Map
 
-<div class="embed"><iframe src="https://www.google.com/maps/d/u/0/embed?mid=1grwFlzkCjfkktBhE9-N1OpCZ6N_j1FY&amp;ehbc=2E312F" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><a class="embed-hold" href="https://www.google.com/maps/d/u/0/embed?mid=1grwFlzkCjfkktBhE9-N1OpCZ6N_j1FY&amp;ehbc=2E312F"><span class="embed-hold-label">Show map</span><span class="embed-hold-note">Google Maps may set cookies</span></a></div>
 
 ## More Netherlands 22 posts
 

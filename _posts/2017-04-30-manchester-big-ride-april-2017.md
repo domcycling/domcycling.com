@@ -29,7 +29,7 @@ So [join the call for clean air, healthy streets and more cycleways](http://www
 * [Cycling and the Greater Manchester mayoral election]({{ site.baseurl }}/2017/03/18/cycling-and-the-greater-manchester-mayoral-election/)
 * [My top 10 wish list for the Greater Manchester mayor]({{ site.baseurl }}/2017/03/20/my-top-10-wish-list-for-the-greater-manchester-mayor/)
 
-<div class="embed embed-video"><iframe src="https://www.youtube-nocookie.com/embed/videoseries?list=PLQFbamwhyK-ORXdyDN2NcFYLSDjVyZhAK" title="YouTube playlist" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed embed-video"><a class="embed-hold" href="https://www.youtube-nocookie.com/embed/videoseries?list=PLQFbamwhyK-ORXdyDN2NcFYLSDjVyZhAK" data-embed-title="YouTube playlist"><span class="embed-hold-label">Show playlist</span><span class="embed-hold-note">YouTube may set cookies</span></a></div>
 
 <div class="gallery" markdown="1">
 ![](https://f000.backblazeb2.com/file/domcycling/2017-04-30-manchester-big-ride-april-2017/p1220600-1600x1202.webp){: loading="lazy"}

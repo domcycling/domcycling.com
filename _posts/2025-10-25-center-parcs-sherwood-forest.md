@@ -165,7 +165,7 @@ It could be even closer and completely traffic-free if it was possible exit the 
 
 I've seen people online mentioning using the alternative entrances, so they have been open at some point, but they were most definitely closed during our stay. It's a shame they can't provide a way for these to be open, as they make it much more convenient for anyone wanting to walk or cycle off site.
 
-[![Route map on Komoot](https://www.komoot.com/tour/2607608882/embed?share_token=a60zpAF76gw1zyVyjaNNUVpsMlods5MwgTEi8On2j6e5CVZELs&image=1&hm=false&profile=1&width=700&height=700){: loading="lazy"}](https://www.komoot.com/tour/2607608882?share_token=a60zpAF76gw1zyVyjaNNUVpsMlods5MwgTEi8On2j6e5CVZELs&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2607608882?share_token=a60zpAF76gw1zyVyjaNNUVpsMlods5MwgTEi8On2j6e5CVZELs&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2607608882/embed?share_token=a60zpAF76gw1zyVyjaNNUVpsMlods5MwgTEi8On2j6e5CVZELs&amp;image=1&amp;hm=false&amp;profile=1&amp;width=700&amp;height=700" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 Using the main entrance, it's still pretty straightforward getting to Sherwood Pines. At the end of the entrance road, you turn left onto the walking and cycling path that runs round the outside of the perimeter of the site.
 

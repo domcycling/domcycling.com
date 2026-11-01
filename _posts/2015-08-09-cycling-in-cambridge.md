@@ -22,4 +22,4 @@ In Manchester, the city centre is becoming less accessible to bikes as buses and
 
 It does seem to present a slightly rosier picture than what I saw, but it's still very encouraging. Particularly the number of women and children riding, the type of bikes being ridden and the lack of Lycra.
 
-<div class="embed"><iframe src="https://player.vimeo.com/video/133736570" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><a class="embed-hold" href="https://player.vimeo.com/video/133736570"><span class="embed-hold-label">Show video</span><span class="embed-hold-note">Vimeo may set cookies</span></a></div>

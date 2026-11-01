@@ -6,5 +6,5 @@ layout: default
   <p class="page-intro">Select a pin to find the posts about that place.</p>
 </header>
 <div class="embed embed-map">
-  <iframe src="https://www.google.com/maps/d/embed?mid={{ site.google_my_map | url_encode }}" title="Map of the places on this blog" loading="lazy" allowfullscreen></iframe>
+  <a class="embed-hold" href="https://www.google.com/maps/d/embed?mid={{ site.google_my_map | url_encode }}" data-embed-title="Map of the places on this blog"><span class="embed-hold-label">Show map</span><span class="embed-hold-note">Google Maps may set cookies</span></a>
 </div>

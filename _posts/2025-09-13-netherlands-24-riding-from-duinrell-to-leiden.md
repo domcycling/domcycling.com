@@ -81,7 +81,7 @@ That grade separation means you can cycle across those big roads, with no stoppi
 
 After passing under the railways tracks in a tunnel, we took a left onto Morssingel, then right onto Stationsweg, before arriving at Beestenmarkt, where we parked our bikes.
 
-[![Route map on Komoot](https://www.komoot.com/tour/2540060430/embed?share_token=ar2tUPa0Ky9z8CA8Zh6msXzOyM9Dw6UvYC59K646lPTd6l9ee3&image=1&hm=false&width=640&height=600){: loading="lazy"}](https://www.komoot.com/tour/2540060430?share_token=ar2tUPa0Ky9z8CA8Zh6msXzOyM9Dw6UvYC59K646lPTd6l9ee3&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2540060430?share_token=ar2tUPa0Ky9z8CA8Zh6msXzOyM9Dw6UvYC59K646lPTd6l9ee3&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2540060430/embed?share_token=ar2tUPa0Ky9z8CA8Zh6msXzOyM9Dw6UvYC59K646lPTd6l9ee3&amp;image=1&amp;hm=false&amp;width=640&amp;height=600" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 <div class="gallery" markdown="1">
 ![Getting ready to set off](https://f000.backblazeb2.com/file/domcycling/2025-09-13-netherlands-24-riding-from-duinrell-to-leiden/20240804_111054.webp){: loading="lazy"}
@@ -200,7 +200,7 @@ Though instead of turning off onto the path along Valkenburgse Meer, we carried 
 
 From this point, we pretty much followed the route I'd done that morning, which involved riding along Deijlerweg that turns into Van Zuylen van Nijeveltstraat in the centre of Wassenaar. We were soon back at Duinrell, to enjoy the rest of the day.
 
-[![Route map on Komoot](https://www.komoot.com/tour/2540063653/embed?share_token=ahVubciGMpQCAkjj2xYA4ccTkTGdP7ze4YFUcc1E5veoZMU0C6&image=1&hm=false&width=640&height=600){: loading="lazy"}](https://www.komoot.com/tour/2540063653?share_token=ahVubciGMpQCAkjj2xYA4ccTkTGdP7ze4YFUcc1E5veoZMU0C6&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2540063653?share_token=ahVubciGMpQCAkjj2xYA4ccTkTGdP7ze4YFUcc1E5veoZMU0C6&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2540063653/embed?share_token=ahVubciGMpQCAkjj2xYA4ccTkTGdP7ze4YFUcc1E5veoZMU0C6&amp;image=1&amp;hm=false&amp;width=640&amp;height=600" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 <div class="gallery" markdown="1">
 ![Getting ready to leave at Beestenmarkt](https://f000.backblazeb2.com/file/domcycling/2025-09-13-netherlands-24-riding-from-duinrell-to-leiden/20240804_155917.webp){: loading="lazy"}

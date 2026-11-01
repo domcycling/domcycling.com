@@ -93,7 +93,7 @@ While on the bridge, we were treated to fantastic views of the Amsterdam–Rhine
 
 Once over the canal, it was a short ride until we were back onto Straatweg and onto Amsterdamsestraatweg where our apartment was located. We arrived back in time for dinner and a well-earned drink.
 
-<div class="embed"><iframe src="https://www.google.com/maps/d/u/0/embed?mid=1NY0LuCUReFF7T-l_Qd2vJV4FZE4" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><a class="embed-hold" href="https://www.google.com/maps/d/u/0/embed?mid=1NY0LuCUReFF7T-l_Qd2vJV4FZE4"><span class="embed-hold-label">Show map</span><span class="embed-hold-note">Google Maps may set cookies</span></a></div>
 
 <div class="gallery" markdown="1">
 ![Heading out of Utrecht on Amsterdamsestraatweg](https://f000.backblazeb2.com/file/domcycling/2017-06-24-netherlands-17-the-route-to-de-haar-castle/p1230601.webp){: loading="lazy"}

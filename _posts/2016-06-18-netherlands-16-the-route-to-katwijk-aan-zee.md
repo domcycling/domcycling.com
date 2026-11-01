@@ -83,7 +83,7 @@ As we approached Wassenaar, the Noordzee Route crossed the route to the beach a
 ![DSC_8899](https://f000.backblazeb2.com/file/domcycling/2016-06-18-netherlands-16-the-route-to-katwijk-aan-zee/dsc_8899.webp){: loading="lazy"}
 *On the route back from Wassenaarse Slag, near Duinrell*
 
-<div class="embed"><iframe src="https://www.google.com/maps/d/u/0/embed?mid=1lwSd-HW2hAWSPb_d1RJ1JedV1mI" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><a class="embed-hold" href="https://www.google.com/maps/d/u/0/embed?mid=1lwSd-HW2hAWSPb_d1RJ1JedV1mI"><span class="embed-hold-label">Show map</span><span class="embed-hold-note">Google Maps may set cookies</span></a></div>
 
 <div class="gallery" markdown="1">
 ![](https://f000.backblazeb2.com/file/domcycling/2016-06-18-netherlands-16-the-route-to-katwijk-aan-zee/dsc_8721.webp){: loading="lazy"}

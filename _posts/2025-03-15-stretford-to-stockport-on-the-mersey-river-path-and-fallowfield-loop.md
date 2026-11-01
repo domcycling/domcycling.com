@@ -31,7 +31,7 @@ There's typically two routes I ride to Stockport from Stretford, that have signi
 
 Starting with the route along the Mersey River Path. This does include more road sections than I'd like. Where I can, I do this on quiet roads, though it's not always possible.
 
-[![Route map on Komoot](https://www.komoot.com/tour/2097166831/embed?share_token=aO8di3y2mkvoXE1xzCjBHYjwzNZSOFguK55swxhfIsVYDeFIdo&image=1&hm=false&width=640&height=600){: loading="lazy"}](https://www.komoot.com/tour/2097166831?share_token=aO8di3y2mkvoXE1xzCjBHYjwzNZSOFguK55swxhfIsVYDeFIdo&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2097166831?share_token=aO8di3y2mkvoXE1xzCjBHYjwzNZSOFguK55swxhfIsVYDeFIdo&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2097166831/embed?share_token=aO8di3y2mkvoXE1xzCjBHYjwzNZSOFguK55swxhfIsVYDeFIdo&amp;image=1&amp;hm=false&amp;width=640&amp;height=600" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 Starting at Longford Bridge on the A56, I went down to the Bridgewater Canal to join the path towards Stretford. As leisure routes go, the Bridgewater Canal path is okay, but could definitely be better.
 
@@ -204,7 +204,7 @@ While the redevelopment of Merseyway is generally a decent improvement, it's on 
 
 As I mentioned, I usually do a different route on the way back, so there's a bit of variation. So on this day, I decided to go along the Fallowfield Loop, this time following a route planned on Komoot.
 
-[![Route map on Komoot](https://www.komoot.com/tour/2097202766/embed?share_token=apz60ROTjaoHPvv3Wg78JFJVpUDk61FdABfXh27IESEv2tf6uw&image=1&hm=false&width=640&height=600){: loading="lazy"}](https://www.komoot.com/tour/2097202766?share_token=apz60ROTjaoHPvv3Wg78JFJVpUDk61FdABfXh27IESEv2tf6uw&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2097202766?share_token=apz60ROTjaoHPvv3Wg78JFJVpUDk61FdABfXh27IESEv2tf6uw&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2097202766/embed?share_token=apz60ROTjaoHPvv3Wg78JFJVpUDk61FdABfXh27IESEv2tf6uw&amp;image=1&amp;hm=false&amp;width=640&amp;height=600" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 Due to the lack of safe cycling infrastructure on the A6 Wellington Road South, something Stockport Council are still refusing to address, instead proposing a substandard, indirect route on quiet streets, there isn't a straightforward way to get to the Fallowfield Loop.
 

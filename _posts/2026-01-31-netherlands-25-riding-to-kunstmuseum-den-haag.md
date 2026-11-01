@@ -113,7 +113,7 @@ It was only a short ride though, so soon we arrived at the museum, where we park
 ![Kids in bike buses outside Kunstmuseum Den Haag](https://f000.backblazeb2.com/file/domcycling/2026-01-31-netherlands-25-riding-to-kunstmuseum-den-haag/img_3953.webp){: loading="lazy"}
 </div>
 
-[![Route map on Komoot](https://www.komoot.com/tour/2714148332/embed?share_token=arO46AyMCc4JM8cnKcn3dCNVjf7XDAgS8NwMJBMDrnp0bACMgP&image=1&hm=false&width=640&height=800){: loading="lazy"}](https://www.komoot.com/tour/2714148332?share_token=arO46AyMCc4JM8cnKcn3dCNVjf7XDAgS8NwMJBMDrnp0bACMgP&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2714148332?share_token=arO46AyMCc4JM8cnKcn3dCNVjf7XDAgS8NwMJBMDrnp0bACMgP&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2714148332/embed?share_token=arO46AyMCc4JM8cnKcn3dCNVjf7XDAgS8NwMJBMDrnp0bACMgP&amp;image=1&amp;hm=false&amp;width=640&amp;height=800" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 ## At Kunstmuseum Den Haag
 
@@ -258,7 +258,7 @@ Once over the N440 for the second time, we continued along Buurtweg. Then onto G
 ![Riding along Bremhorstlaan](https://f000.backblazeb2.com/file/domcycling/2026-01-31-netherlands-25-riding-to-kunstmuseum-den-haag/img_3736.webp){: loading="lazy"}
 </div>
 
-[![Route map on Komoot](https://www.komoot.com/tour/2714151712/embed?share_token=a2GgAleJuEhNN0l6Nv2lp0tyYib63PuC3c2Cp06FMBCQiiEobS&image=1&hm=false&width=640&height=800){: loading="lazy"}](https://www.komoot.com/tour/2714151712?share_token=a2GgAleJuEhNN0l6Nv2lp0tyYib63PuC3c2Cp06FMBCQiiEobS&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2714151712?share_token=a2GgAleJuEhNN0l6Nv2lp0tyYib63PuC3c2Cp06FMBCQiiEobS&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2714151712/embed?share_token=a2GgAleJuEhNN0l6Nv2lp0tyYib63PuC3c2Cp06FMBCQiiEobS&amp;image=1&amp;hm=false&amp;width=640&amp;height=800" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 ## More Netherlands 25 posts
 

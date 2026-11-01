@@ -257,4 +257,4 @@ So, despite some questionable roads and a general lack of safe space for cycling
 
 ## Map
 
-<div class="embed"><iframe src="https://www.google.com/maps/d/u/6/embed?mid=1lIcMv7XWYO7pwGq6xpIZb7drgvV9L8Y&amp;ehbc=2E312F" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><a class="embed-hold" href="https://www.google.com/maps/d/u/6/embed?mid=1lIcMv7XWYO7pwGq6xpIZb7drgvV9L8Y&amp;ehbc=2E312F"><span class="embed-hold-label">Show map</span><span class="embed-hold-note">Google Maps may set cookies</span></a></div>

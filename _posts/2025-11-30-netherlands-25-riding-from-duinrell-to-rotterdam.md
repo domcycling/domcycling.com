@@ -132,7 +132,7 @@ After finally locking up, I headed to the Markthal to meet up with the others.
 ![Coolsingel](https://f000.backblazeb2.com/file/domcycling/2025-11-30-netherlands-25-riding-from-duinrell-to-rotterdam/img_1858.webp){: loading="lazy"}
 </div>
 
-[![Route map on Komoot](https://www.komoot.com/tour/2661902359/embed?share_token=aY218FSUzVBh1RmVAKx91K5RCcApf4MYA8bhmSB52WxjN43cOl&image=1&hm=false&width=640&height=800){: loading="lazy"}](https://www.komoot.com/tour/2661902359?share_token=aY218FSUzVBh1RmVAKx91K5RCcApf4MYA8bhmSB52WxjN43cOl&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2661902359?share_token=aY218FSUzVBh1RmVAKx91K5RCcApf4MYA8bhmSB52WxjN43cOl&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2661902359/embed?share_token=aY218FSUzVBh1RmVAKx91K5RCcApf4MYA8bhmSB52WxjN43cOl&amp;image=1&amp;hm=false&amp;width=640&amp;height=800" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 ## Wandering around Rotterdam
 
@@ -278,7 +278,7 @@ Unsurprisingly, the others had even more troubles with the trains getting back f
 ![View along the Vliet canal from Sijtwendebrug bridge, towards Leidschendam](https://f000.backblazeb2.com/file/domcycling/2025-11-30-netherlands-25-riding-from-duinrell-to-rotterdam/img_2063.webp){: loading="lazy"}
 </div>
 
-[![Route map on Komoot](https://www.komoot.com/tour/2661904946/embed?share_token=aFR2OoworQHg8nQQHjtvLtvFMvXXR0Ao5Cpfa5UnkrGqLt8geA&image=1&hm=false&width=640&height=800){: loading="lazy"}](https://www.komoot.com/tour/2661904946?share_token=aFR2OoworQHg8nQQHjtvLtvFMvXXR0Ao5Cpfa5UnkrGqLt8geA&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2661904946?share_token=aFR2OoworQHg8nQQHjtvLtvFMvXXR0Ao5Cpfa5UnkrGqLt8geA&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2661904946/embed?share_token=aFR2OoworQHg8nQQHjtvLtvFMvXXR0Ao5Cpfa5UnkrGqLt8geA&amp;image=1&amp;hm=false&amp;width=640&amp;height=800" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 ## More Netherlands 25 posts
 

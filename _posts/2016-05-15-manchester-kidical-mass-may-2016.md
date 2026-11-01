@@ -38,7 +38,7 @@ It was great to see so many people out enjoying the Fallowfield Loop, and it was
 
 If like me, you think the barriers on the Fallowfield Loop should be open permanently or have any other comments about the trial, then please email [FLoopOpenBarriers@gmail.com](mailto:FLoopOpenBarriers@gmail.com). The more we can do support this trial, the more likely it will become a permanent thing.
 
-<div class="embed embed-video"><iframe src="https://www.youtube-nocookie.com/embed/videoseries?list=PLQFbamwhyK-OWr_ISDVgGNmtnymy8AJjs" title="YouTube playlist" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed embed-video"><a class="embed-hold" href="https://www.youtube-nocookie.com/embed/videoseries?list=PLQFbamwhyK-OWr_ISDVgGNmtnymy8AJjs" data-embed-title="YouTube playlist"><span class="embed-hold-label">Show playlist</span><span class="embed-hold-note">YouTube may set cookies</span></a></div>
 
 <div class="gallery" markdown="1">
 ![](https://f000.backblazeb2.com/file/domcycling/2016-05-15-manchester-kidical-mass-may-2016/dsc_7139.webp){: loading="lazy"}

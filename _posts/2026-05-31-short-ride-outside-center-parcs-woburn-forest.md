@@ -105,4 +105,4 @@ This was a pleasant little ride and a good taster for a much longer ride I'd end
 
 ## Route
 
-[![Route map on Komoot](https://www.komoot.com/tour/2941660550/embed?share_token=aPsWeOkmZxUTeEEw6M6pmqimmjc6X41Ff40rI0bnzIxOVwVid6&layout=classic&profile=1&width=600&height=700&image=1&hm=false){: loading="lazy"}](https://www.komoot.com/tour/2941660550?share_token=aPsWeOkmZxUTeEEw6M6pmqimmjc6X41Ff40rI0bnzIxOVwVid6)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2941660550?share_token=aPsWeOkmZxUTeEEw6M6pmqimmjc6X41Ff40rI0bnzIxOVwVid6" data-embed-image="https://www.komoot.com/tour/2941660550/embed?share_token=aPsWeOkmZxUTeEEw6M6pmqimmjc6X41Ff40rI0bnzIxOVwVid6&amp;layout=classic&amp;profile=1&amp;width=600&amp;height=700&amp;image=1&amp;hm=false" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>

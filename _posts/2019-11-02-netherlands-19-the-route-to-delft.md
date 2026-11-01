@@ -160,7 +160,7 @@ It wasn't long before I was back in The Hague, riding through the city centre an
 
 It was very pleasant ride to Delft. Something I've been wanting to do for a while, but hadn't had opportunity to do. I really didn't have enough time to have a good look round though, so a return visit is definitely on the cards. Maybe in 2020...
 
-<div class="embed"><iframe src="https://www.google.co.uk/maps/d/u/0/embed?mid=1rjxHBDR2XKjNwIeFUouvz4cozUFoFlCh" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><a class="embed-hold" href="https://www.google.co.uk/maps/d/u/0/embed?mid=1rjxHBDR2XKjNwIeFUouvz4cozUFoFlCh"><span class="embed-hold-label">Show map</span><span class="embed-hold-note">Google Maps may set cookies</span></a></div>
 
 <div class="gallery" markdown="1">
 ![](https://f000.backblazeb2.com/file/domcycling/2019-11-02-netherlands-19-the-route-to-delft/20190606_130242.webp){: loading="lazy"}

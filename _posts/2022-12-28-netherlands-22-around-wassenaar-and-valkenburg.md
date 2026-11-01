@@ -86,7 +86,7 @@ There were one or two other issues along the way with the Velo 2, mainly with us
 
 ## Map
 
-<div class="embed"><iframe src="https://www.google.com/maps/d/u/0/embed?mid=1pSm75jtPF84iD5qvKo-DMXl5p-88RcY&amp;ehbc=2E312F" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><a class="embed-hold" href="https://www.google.com/maps/d/u/0/embed?mid=1pSm75jtPF84iD5qvKo-DMXl5p-88RcY&amp;ehbc=2E312F"><span class="embed-hold-label">Show map</span><span class="embed-hold-note">Google Maps may set cookies</span></a></div>
 
 ## Gallery
 

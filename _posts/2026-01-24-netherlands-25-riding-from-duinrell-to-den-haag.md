@@ -65,7 +65,7 @@ It wasn't long before we were coming out the other side of Haagse Bos and arrivi
 ![Riding through the trees in Haagse Bos](https://f000.backblazeb2.com/file/domcycling/2026-01-24-netherlands-25-riding-from-duinrell-to-den-haag/img_3756.webp){: loading="lazy"}
 </div>
 
-[![Route map on Komoot](https://www.komoot.com/tour/2710379145/embed?share_token=a9b83ZYLx2CtZovhVf6BAShxrsfkGjQCV7QkWPnomzxsu5S19R&image=1&hm=false&width=640&height=800){: loading="lazy"}](https://www.komoot.com/tour/2710379145?share_token=a9b83ZYLx2CtZovhVf6BAShxrsfkGjQCV7QkWPnomzxsu5S19R&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2710379145?share_token=a9b83ZYLx2CtZovhVf6BAShxrsfkGjQCV7QkWPnomzxsu5S19R&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2710379145/embed?share_token=a9b83ZYLx2CtZovhVf6BAShxrsfkGjQCV7QkWPnomzxsu5S19R&amp;image=1&amp;hm=false&amp;width=640&amp;height=800" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 ## Wandering round Den Haag
 
@@ -163,7 +163,7 @@ We set off back into Haagse Bos and followed the route we came on. The weather w
 ![Riding along Storm van 's-Gravesandeweg](https://f000.backblazeb2.com/file/domcycling/2026-01-24-netherlands-25-riding-from-duinrell-to-den-haag/img_3852.webp){: loading="lazy"}
 </div>
 
-[![Route map on Komoot](https://www.komoot.com/tour/2710379971/embed?share_token=a8Z4HMYeMdSqbosZXBc9yhbCVKXGfYzuzwxVCMxocy6gB6iASl&image=1&hm=false&width=640&height=800){: loading="lazy"}](https://www.komoot.com/tour/2710379971?share_token=a8Z4HMYeMdSqbosZXBc9yhbCVKXGfYzuzwxVCMxocy6gB6iASl&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2710379971?share_token=a8Z4HMYeMdSqbosZXBc9yhbCVKXGfYzuzwxVCMxocy6gB6iASl&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2710379971/embed?share_token=a8Z4HMYeMdSqbosZXBc9yhbCVKXGfYzuzwxVCMxocy6gB6iASl&amp;image=1&amp;hm=false&amp;width=640&amp;height=800" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 ## More Netherlands 25 posts
 

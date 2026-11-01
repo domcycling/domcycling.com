@@ -56,7 +56,7 @@ Following the route of the Métro line 2 viaduct, I made my way along more kerb-
 
 At that point, I cycled down Quai de Valmy, which follows the route of the canal. This featured large sections of kerb-protected cycle lanes and some great views of the canal. Not long after, I met the others and parked up my Vélib bike.
 
-[![Route map on Komoot](https://www.komoot.com/tour/2356129963/embed?share_token=aZlssCVO7l4nvj2AeoqqkHlAHH7fTsLvzd8Q1P2D2xnidhfIAB&image=1&hm=false&width=640&height=600){: loading="lazy"}](https://www.komoot.com/tour/2356129963?share_token=aZlssCVO7l4nvj2AeoqqkHlAHH7fTsLvzd8Q1P2D2xnidhfIAB&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2356129963?share_token=aZlssCVO7l4nvj2AeoqqkHlAHH7fTsLvzd8Q1P2D2xnidhfIAB&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2356129963/embed?share_token=aZlssCVO7l4nvj2AeoqqkHlAHH7fTsLvzd8Q1P2D2xnidhfIAB&amp;image=1&amp;hm=false&amp;width=640&amp;height=600" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 <div class="gallery" markdown="1">
 ![Pedestrian priority sign on Passage Petit-Cerf](https://f000.backblazeb2.com/file/domcycling/2025-06-25-paris-24-wandering-along-canal-saint-martin/20240531_111108.webp){: loading="lazy"}
@@ -243,7 +243,7 @@ Starting off in the kerb-protected lanes on Boulevard de Belleville, I carried o
 
 I continued onto Boulevard de Magenta with its narrow green cycle paths. This turned into Boulevard Ornano with a more modern and wider kerb-protected cycle lanes. From there, it was back along the way I came, on Boulevard Ney, before arriving back at our Airbnb apartment.
 
-[![Route map on Komoot](https://www.komoot.com/tour/2356115352/embed?share_token=apPpBksqMfG8Z86NeL3NmsLtJf03u5Eg1p4kBoOwn5dAp7xcBn&image=1&hm=false&width=640&height=600){: loading="lazy"}](https://www.komoot.com/tour/2356115352?share_token=apPpBksqMfG8Z86NeL3NmsLtJf03u5Eg1p4kBoOwn5dAp7xcBn&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2356115352?share_token=apPpBksqMfG8Z86NeL3NmsLtJf03u5Eg1p4kBoOwn5dAp7xcBn&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2356115352/embed?share_token=apPpBksqMfG8Z86NeL3NmsLtJf03u5Eg1p4kBoOwn5dAp7xcBn&amp;image=1&amp;hm=false&amp;width=640&amp;height=600" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 <div class="gallery" markdown="1">
 ![Kerb-protected cycle lane on Boulevard de Belleville](https://f000.backblazeb2.com/file/domcycling/2025-06-25-paris-24-wandering-along-canal-saint-martin/20240531_173840.webp){: loading="lazy"}

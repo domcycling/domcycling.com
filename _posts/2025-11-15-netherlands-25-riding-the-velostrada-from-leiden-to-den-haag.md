@@ -204,7 +204,7 @@ Arriving back at Duinrell late afternoon, we had a barbeque at our cabin, then h
 
 ## Route
 
-[![Route map on Komoot](https://www.komoot.com/tour/2645778519/embed?share_token=ae0FJmpMzTwV19bJZuCpUBb9lSu8rYe7OEOtmYZ3UIPW9Vt6b2&image=1&hm=false&width=700&height=800){: loading="lazy"}](https://www.komoot.com/tour/2645778519?share_token=ae0FJmpMzTwV19bJZuCpUBb9lSu8rYe7OEOtmYZ3UIPW9Vt6b2&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2645778519?share_token=ae0FJmpMzTwV19bJZuCpUBb9lSu8rYe7OEOtmYZ3UIPW9Vt6b2&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2645778519/embed?share_token=ae0FJmpMzTwV19bJZuCpUBb9lSu8rYe7OEOtmYZ3UIPW9Vt6b2&amp;image=1&amp;hm=false&amp;width=700&amp;height=800" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 ## More Netherlands 25 posts
 

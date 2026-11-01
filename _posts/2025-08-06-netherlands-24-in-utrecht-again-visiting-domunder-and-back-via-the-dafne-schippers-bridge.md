@@ -72,7 +72,7 @@ Once across the bridge, I made my way into the fantastic cycle parking under Utr
 
 [![YouTube video](https://img.youtube.com/vi/lLWQPTCk_iQ/hqdefault.jpg)](https://www.youtube.com/watch?v=lLWQPTCk_iQ)
 
-[![Route map on Komoot](https://www.komoot.com/tour/2413410019/embed?share_token=apyIc0onORVp8aY9aL8aKSAEtGSMK0SexnRprX196UkGmnYoyN&image=1&hm=false&width=640&height=600){: loading="lazy"}](https://www.komoot.com/tour/2413410019?share_token=apyIc0onORVp8aY9aL8aKSAEtGSMK0SexnRprX196UkGmnYoyN&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2413410019?share_token=apyIc0onORVp8aY9aL8aKSAEtGSMK0SexnRprX196UkGmnYoyN&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2413410019/embed?share_token=apyIc0onORVp8aY9aL8aKSAEtGSMK0SexnRprX196UkGmnYoyN&amp;image=1&amp;hm=false&amp;width=640&amp;height=600" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 <div class="gallery" markdown="1">
 ![Sculpture outside Stazione Pazzo Restaurant](https://f000.backblazeb2.com/file/domcycling/2025-08-06-netherlands-24-in-utrecht-again-visiting-domunder-and-back-via-the-dafne-schippers-bridge/20240801_103201.webp){: loading="lazy"}
@@ -227,7 +227,7 @@ From there, it was a very gradual downhill into Amersfoort, along Utrechtseweg, 
 ![Approaching a roundabout on Utrechtseweg](https://f000.backblazeb2.com/file/domcycling/2025-08-06-netherlands-24-in-utrecht-again-visiting-domunder-and-back-via-the-dafne-schippers-bridge/20240801_180519.webp){: loading="lazy"}
 *Approaching a roundabout on Utrechtseweg*
 
-[![Route map on Komoot](https://www.komoot.com/tour/2413411649/embed?share_token=amj3GI3bmFJWtbqbD20IfL8ytUmhJnEJ3XRnwUGkf9qtPRlegw&image=1&hm=false&profile=1&width=640&height=700){: loading="lazy"}](https://www.komoot.com/tour/2413411649?share_token=amj3GI3bmFJWtbqbD20IfL8ytUmhJnEJ3XRnwUGkf9qtPRlegw&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2413411649?share_token=amj3GI3bmFJWtbqbD20IfL8ytUmhJnEJ3XRnwUGkf9qtPRlegw&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2413411649/embed?share_token=amj3GI3bmFJWtbqbD20IfL8ytUmhJnEJ3XRnwUGkf9qtPRlegw&amp;image=1&amp;hm=false&amp;profile=1&amp;width=640&amp;height=700" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 <div class="gallery" markdown="1">
 ![People cycling on Smakkelaarskade, concrete tram tunnel to be built over](https://f000.backblazeb2.com/file/domcycling/2025-08-06-netherlands-24-in-utrecht-again-visiting-domunder-and-back-via-the-dafne-schippers-bridge/20240801_160234.webp){: loading="lazy"}

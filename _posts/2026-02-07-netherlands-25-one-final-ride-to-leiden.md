@@ -60,7 +60,7 @@ At the time we were there, there were plenty of spaces on the racks. Finding a s
 ![Approaching a level crossing on Haagweg](https://f000.backblazeb2.com/file/domcycling/2026-02-07-netherlands-25-one-final-ride-to-leiden/img_4244.webp){: loading="lazy"}
 </div>
 
-[![Route map on Komoot](https://www.komoot.com/tour/2714159010/embed?share_token=a85qplyNRd4qFH3NjEFJ7pJb8YcFPh6p9n9zwXYjFI5AJJv619&image=1&hm=false&width=640&height=800){: loading="lazy"}](https://www.komoot.com/tour/2714159010?share_token=a85qplyNRd4qFH3NjEFJ7pJb8YcFPh6p9n9zwXYjFI5AJJv619&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2714159010?share_token=a85qplyNRd4qFH3NjEFJ7pJb8YcFPh6p9n9zwXYjFI5AJJv619&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2714159010/embed?share_token=a85qplyNRd4qFH3NjEFJ7pJb8YcFPh6p9n9zwXYjFI5AJJv619&amp;image=1&amp;hm=false&amp;width=640&amp;height=800" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 ## Wandering around Leiden
 
@@ -187,7 +187,7 @@ So will we be returning in 2026? To be honest, probably not. I really fancy goin
 ![Doctor Lelylaan](https://f000.backblazeb2.com/file/domcycling/2026-02-07-netherlands-25-one-final-ride-to-leiden/img_4368.webp){: loading="lazy"}
 </div>
 
-[![Route map on Komoot](https://www.komoot.com/tour/2714159886/embed?share_token=a19odJOK3Ttk6b7T48TiaT4S5KQB43bgmGTzf6UZdGMvuvTJFr&image=1&hm=false&width=640&height=800){: loading="lazy"}](https://www.komoot.com/tour/2714159886?share_token=a19odJOK3Ttk6b7T48TiaT4S5KQB43bgmGTzf6UZdGMvuvTJFr&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2714159886?share_token=a19odJOK3Ttk6b7T48TiaT4S5KQB43bgmGTzf6UZdGMvuvTJFr&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2714159886/embed?share_token=a19odJOK3Ttk6b7T48TiaT4S5KQB43bgmGTzf6UZdGMvuvTJFr&amp;image=1&amp;hm=false&amp;width=640&amp;height=800" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 ## More Netherlands 25 posts
 

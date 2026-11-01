@@ -38,7 +38,7 @@ I also had a good chat with Caren Hartley from [Hartley Cycles](http://www.hart
 
 Overall, the show was a pleasant day out, particularly as it was free for me and not far from where I live. I'm not sure I'd free quite the same if I'd have paid to get in or travelled a great distance.
 
-<div class="embed embed-video"><iframe src="https://www.youtube-nocookie.com/embed/videoseries?list=PLQFbamwhyK-OjdR2XGiQuj5sLsNq2f-hD" title="YouTube playlist" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed embed-video"><a class="embed-hold" href="https://www.youtube-nocookie.com/embed/videoseries?list=PLQFbamwhyK-OjdR2XGiQuj5sLsNq2f-hD" data-embed-title="YouTube playlist"><span class="embed-hold-label">Show playlist</span><span class="embed-hold-note">YouTube may set cookies</span></a></div>
 
 <div class="gallery" markdown="1">
 ![](https://f000.backblazeb2.com/file/domcycling/2016-05-10-spin-manchester-2016/dsc_6714.webp){: loading="lazy"}

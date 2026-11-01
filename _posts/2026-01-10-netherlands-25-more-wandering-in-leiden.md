@@ -35,7 +35,7 @@ Getting there, we largely followed the route we returned on during our last visi
 ![Train crossing over the underpass on Bargelaan](https://f000.backblazeb2.com/file/domcycling/2026-01-10-netherlands-25-more-wandering-in-leiden/img_3158.webp){: loading="lazy"}
 </div>
 
-[![Route map on Komoot](https://www.komoot.com/tour/2699504277/embed?share_token=aE0cEonxz6ne4JiMYHeNz5uCpyel9ol0gbvROLIOpnnafwNm7j&image=1&hm=false&width=640&height=800){: loading="lazy"}](https://www.komoot.com/tour/2699504277?share_token=aE0cEonxz6ne4JiMYHeNz5uCpyel9ol0gbvROLIOpnnafwNm7j&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2699504277?share_token=aE0cEonxz6ne4JiMYHeNz5uCpyel9ol0gbvROLIOpnnafwNm7j&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2699504277/embed?share_token=aE0cEonxz6ne4JiMYHeNz5uCpyel9ol0gbvROLIOpnnafwNm7j&amp;image=1&amp;hm=false&amp;width=640&amp;height=800" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 ## Wandering round Leiden
 
@@ -129,7 +129,7 @@ Leaving Leiden, we made our way through the university quarter, past the Gorlaeu
 ![On Bellesteynlaan](https://f000.backblazeb2.com/file/domcycling/2026-01-10-netherlands-25-more-wandering-in-leiden/img_3292.webp){: loading="lazy"}
 </div>
 
-[![Route map on Komoot](https://www.komoot.com/tour/2699508883/embed?share_token=a6Ju2X31Irrd6JJNghqeFwLYzHPDyOc4jG3X6j7InwzDukKhkC&image=1&hm=false&width=640&height=800){: loading="lazy"}](https://www.komoot.com/tour/2699508883?share_token=a6Ju2X31Irrd6JJNghqeFwLYzHPDyOc4jG3X6j7InwzDukKhkC&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2699508883?share_token=a6Ju2X31Irrd6JJNghqeFwLYzHPDyOc4jG3X6j7InwzDukKhkC&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2699508883/embed?share_token=a6Ju2X31Irrd6JJNghqeFwLYzHPDyOc4jG3X6j7InwzDukKhkC&amp;image=1&amp;hm=false&amp;width=640&amp;height=800" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 ## More Netherlands 25 posts
 

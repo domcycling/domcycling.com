@@ -84,7 +84,7 @@ We made our way along the seafront, then turned off onto the beach and down to S
 ![Sport cyclists on Boulevard](https://f000.backblazeb2.com/file/domcycling/2025-12-20-netherlands-25-riding-to-katwijk-aan-zee-for-lunch/img_2977.webp){: loading="lazy"}
 </div>
 
-[![Route map on Komoot](https://www.komoot.com/tour/2695934129/embed?share_token=axpo28iTQ1KWkvVUWd44FkPg7E4oBuTL5unHiemS4TrtFY75gd&image=1&hm=false&profile=1&width=640&height=700){: loading="lazy"}](https://www.komoot.com/tour/2695934129?share_token=axpo28iTQ1KWkvVUWd44FkPg7E4oBuTL5unHiemS4TrtFY75gd&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2695934129?share_token=axpo28iTQ1KWkvVUWd44FkPg7E4oBuTL5unHiemS4TrtFY75gd&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2695934129/embed?share_token=axpo28iTQ1KWkvVUWd44FkPg7E4oBuTL5unHiemS4TrtFY75gd&amp;image=1&amp;hm=false&amp;profile=1&amp;width=640&amp;height=700" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 ## Lunch at Katwijk aan Zee
 
@@ -169,7 +169,7 @@ Further along, Wassenaarseweg turns into Katwijksweg, then reaches the roundabou
 ![Selfie on Wassenaarseweg](https://f000.backblazeb2.com/file/domcycling/2025-12-20-netherlands-25-riding-to-katwijk-aan-zee-for-lunch/img_3059.webp){: loading="lazy"}
 </div>
 
-[![Route map on Komoot](https://www.komoot.com/tour/2695934814/embed?share_token=aBZrjjLNKIOZaDw2aJ9i63OaIcb0o1U2xuc1VGBKga0uoVtFQb&image=1&hm=false&profile=1&width=640&height=700){: loading="lazy"}](https://www.komoot.com/tour/2695934814?share_token=aBZrjjLNKIOZaDw2aJ9i63OaIcb0o1U2xuc1VGBKga0uoVtFQb&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2695934814?share_token=aBZrjjLNKIOZaDw2aJ9i63OaIcb0o1U2xuc1VGBKga0uoVtFQb&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2695934814/embed?share_token=aBZrjjLNKIOZaDw2aJ9i63OaIcb0o1U2xuc1VGBKga0uoVtFQb&amp;image=1&amp;hm=false&amp;profile=1&amp;width=640&amp;height=700" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 ## More Netherlands 25 posts
 

@@ -52,7 +52,7 @@ Upon reaching the N413 Van Weerden Poelmanweg, we left the F28 route and turned 
 
 It wasn't long before we arrived at the entrance to the museum, where you enter the grounds on what must have been the original route in, when it was an airbase. Unsurprisingly, there was extensive cycle parking, where we parked up and headed for the museum.
 
-[![Route map on Komoot](https://www.komoot.com/tour/2506639800/embed?share_token=aq2DcPfmkhtOKyc4Hm8GL21y9AXe5xe52OD7GFN3Lu5ShCwpsb&image=1&hm=false&profile=1&width=640&height=700){: loading="lazy"}](https://www.komoot.com/tour/2506639800?share_token=aq2DcPfmkhtOKyc4Hm8GL21y9AXe5xe52OD7GFN3Lu5ShCwpsb&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2506639800?share_token=aq2DcPfmkhtOKyc4Hm8GL21y9AXe5xe52OD7GFN3Lu5ShCwpsb&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2506639800/embed?share_token=aq2DcPfmkhtOKyc4Hm8GL21y9AXe5xe52OD7GFN3Lu5ShCwpsb&amp;image=1&amp;hm=false&amp;profile=1&amp;width=640&amp;height=700" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 <div class="gallery" markdown="1">
 ![Enjoying some kibbeling](https://f000.backblazeb2.com/file/domcycling/2025-08-23-netherlands-24-riding-to-the-nationaal-militair-museum/20240802_115236.webp){: loading="lazy"}
@@ -201,7 +201,7 @@ It wasn't too long until we were back in Amersfoort, making our way along Kersen
 
 Arriving back at our Airbnb home, it was time to pack up, as the next day we were heading back to [Duinrell]({{ site.baseurl }}/category/duinrell/), for the second week of our Netherlands 24 trip.
 
-[![Route map on Komoot](https://www.komoot.com/tour/2506655797/embed?share_token=aS8lRyrj4ofpBqpFrETsMckjVJWVRREUzSzxPHgiD9eLerxOIV&image=1&hm=false&profile=1&width=640&height=700){: loading="lazy"}](https://www.komoot.com/tour/2506655797?share_token=aS8lRyrj4ofpBqpFrETsMckjVJWVRREUzSzxPHgiD9eLerxOIV&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2506655797?share_token=aS8lRyrj4ofpBqpFrETsMckjVJWVRREUzSzxPHgiD9eLerxOIV&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2506655797/embed?share_token=aS8lRyrj4ofpBqpFrETsMckjVJWVRREUzSzxPHgiD9eLerxOIV&amp;image=1&amp;hm=false&amp;profile=1&amp;width=640&amp;height=700" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 <div class="gallery" markdown="1">
 ![Cycle path across a road on Amersfoortsestraat](https://f000.backblazeb2.com/file/domcycling/2025-08-23-netherlands-24-riding-to-the-nationaal-militair-museum/20240802_164649.webp){: loading="lazy"}

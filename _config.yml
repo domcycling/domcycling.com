@@ -5,6 +5,7 @@ description: A blog about cycling and urbanism, by someone called Dom
 logo: https://f000.backblazeb2.com/file/domcycling/dom-cycling-3.png
 google_analytics: G-X6Q5ZD99ED
 google_my_map: 1t604Hoz4WyCW9ApULpSd9prWDlu78Ms
+contact_email_encoded: ZG9tY3ljbGluZ2NvbUBnbWFpbC5jb20=
 social_links:
 - https://bsky.app/profile/domcycling.com
 - https://www.youtube.com/@domcycling
@@ -28,8 +29,6 @@ kramdown:
 navigation:
 - title: Home
   url: /
-- title: Camping
-  url: /category/camping/
 - title: Series
   url: /category/series/
   children:
@@ -136,24 +135,24 @@ navigation:
     url: /category/trafford/
 - title: Map
   url: /map/
-- title: Mass rides
-  children:
-  - title: Manchester Critical Mass
-    url: /criticalmass/
-  - title: City Rides
-    url: /category/city-rides/
-  - title: Kidical Mass
-    url: /category/kidical-mass/
-  - title: '#space4cycling'
-    url: /category/space4cycling/
 - title: More
   children:
+  - title: Camping
+    url: /category/camping/
+  - title: City Rides
+    url: /category/city-rides/
   - title: Communities
     url: /category/communities/
+  - title: Kidical Mass
+    url: /category/kidical-mass/
+  - title: Manchester Critical Mass
+    url: /criticalmass/
   - title: National Cycle Network
     url: /category/national-cycle-network/
   - title: Reviews
     url: /category/reviews/
+  - title: '#space4cycling'
+    url: /category/space4cycling/
   - title: Transport
     url: /category/transport/
   - title: Archive

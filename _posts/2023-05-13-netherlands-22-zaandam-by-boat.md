@@ -192,7 +192,7 @@ We soon turned off the Gouw and onto Hanenpadsloot. We then arrived at our holid
 
 ## Map
 
-<div class="embed"><iframe src="https://www.google.com/maps/d/u/0/embed?mid=1TjA1JDNxTUgZ2n7ZorBfp7lGIhXRV7s&amp;ehbc=2E312F" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><a class="embed-hold" href="https://www.google.com/maps/d/u/0/embed?mid=1TjA1JDNxTUgZ2n7ZorBfp7lGIhXRV7s&amp;ehbc=2E312F"><span class="embed-hold-label">Show map</span><span class="embed-hold-note">Google Maps may set cookies</span></a></div>
 
 ## More Netherlands 22 posts
 

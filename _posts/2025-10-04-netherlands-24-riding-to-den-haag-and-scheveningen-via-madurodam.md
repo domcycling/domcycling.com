@@ -203,7 +203,7 @@ After sitting under the shade in Helena Park for a while, I made my way back to 
 
 ## Route to Den Haag
 
-[![Route map on Komoot](https://www.komoot.com/tour/2576096076/embed?share_token=auMGaOAYs6anIMpvLOd06sT2QE8HTe26oh5Xk9p3ld187mHDw3&image=1&hm=false&width=640&height=600){: loading="lazy"}](https://www.komoot.com/tour/2576096076?share_token=auMGaOAYs6anIMpvLOd06sT2QE8HTe26oh5Xk9p3ld187mHDw3&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2576096076?share_token=auMGaOAYs6anIMpvLOd06sT2QE8HTe26oh5Xk9p3ld187mHDw3&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2576096076/embed?share_token=auMGaOAYs6anIMpvLOd06sT2QE8HTe26oh5Xk9p3ld187mHDw3&amp;image=1&amp;hm=false&amp;width=640&amp;height=600" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 ## Riding to Scheveningen and back to Duinrell
 
@@ -286,7 +286,7 @@ Carrying on along Storm van 's-Gravesandeweg, we arrived back at Duinrell, where
 
 ## Route back to Duinrell
 
-[![Route map on Komoot](https://www.komoot.com/tour/2576109635/embed?share_token=aWYIcxA1VlgRnBu5HzOHLlCQbk8LVLjevUrXmXEQ7A1933h7NU&image=1&hm=false&profile=1&width=640&height=700){: loading="lazy"}](https://www.komoot.com/tour/2576109635?share_token=aWYIcxA1VlgRnBu5HzOHLlCQbk8LVLjevUrXmXEQ7A1933h7NU&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2576109635?share_token=aWYIcxA1VlgRnBu5HzOHLlCQbk8LVLjevUrXmXEQ7A1933h7NU&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2576109635/embed?share_token=aWYIcxA1VlgRnBu5HzOHLlCQbk8LVLjevUrXmXEQ7A1933h7NU&amp;image=1&amp;hm=false&amp;profile=1&amp;width=640&amp;height=700" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 ## More Netherlands 24 posts
 

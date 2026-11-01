@@ -93,7 +93,7 @@ I do remember cycling along here in 2017 with the kids, feeling pretty nervous i
 
 Carrying on to the busiest section of Vredenburg, which gave the street the title of the [busiest cycleway in the Netherlands](https://bicycledutch.wordpress.com/2017/06/06/the-busiest-cycleway-in-the-netherlands/), I made my way to the fantastic cycle parking under Utrecht Centraal station.
 
-[![Route map on Komoot](https://www.komoot.com/tour/2393736366/embed?share_token=aIQxForvIbR3l28Tak3858B0eLorJALX3aOEStBMKnAGGf2Hac&image=1&hm=false&width=640&height=600){: loading="lazy"}](https://www.komoot.com/tour/2393736366?share_token=aIQxForvIbR3l28Tak3858B0eLorJALX3aOEStBMKnAGGf2Hac&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2393736366?share_token=aIQxForvIbR3l28Tak3858B0eLorJALX3aOEStBMKnAGGf2Hac&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2393736366/embed?share_token=aIQxForvIbR3l28Tak3858B0eLorJALX3aOEStBMKnAGGf2Hac&amp;image=1&amp;hm=false&amp;width=640&amp;height=600" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 <div class="gallery" markdown="1">
 ![Smallepad cycle path next to the railway tracks](https://f000.backblazeb2.com/file/domcycling/2025-07-12-netherlands-24-riding-the-f28-fast-route-to-utrecht/20240729_104820.webp){: loading="lazy"}
@@ -214,7 +214,7 @@ As an aside, I've noticed mountain biking appears to be quite popular in the Net
 
 As I said, we did end up returning to Utrecht during the week, which meant another ride along the F28 Fast Cycle Route. For fear of repeating myself (possibly a first), I won't cover the whole ride, but I will include the route took out of Utrecht, via the [Dafne Schippers Bridge]({{ site.baseurl }}/2019/08/31/netherlands-19-utrecht-revisited/) and along [Amsterdamsestraatweg]({{ site.baseurl }}/2017/07/20/netherlands-17-around-amsterdamsestraatweg/).
 
-[![Route map on Komoot](https://www.komoot.com/tour/2393748410/embed?share_token=aJSi3awVxDQWTdp30b4BwNqEqng60JlN5EMdatP8P10CwT3473&image=1&hm=false&width=640&height=600){: loading="lazy"}](https://www.komoot.com/tour/2393748410?share_token=aJSi3awVxDQWTdp30b4BwNqEqng60JlN5EMdatP8P10CwT3473&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2393748410?share_token=aJSi3awVxDQWTdp30b4BwNqEqng60JlN5EMdatP8P10CwT3473&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2393748410/embed?share_token=aJSi3awVxDQWTdp30b4BwNqEqng60JlN5EMdatP8P10CwT3473&amp;image=1&amp;hm=false&amp;width=640&amp;height=600" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 <div class="gallery" markdown="1">
 ![Riding along Lange Jansstraat](https://f000.backblazeb2.com/file/domcycling/2025-07-12-netherlands-24-riding-the-f28-fast-route-to-utrecht/20240729_182026.webp){: loading="lazy"}

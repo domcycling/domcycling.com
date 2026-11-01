@@ -234,7 +234,7 @@ Dropping our bikes off, we made our way back on the Métro to our Airbnb apartme
 
 ## Map
 
-[![Route map on Komoot](https://www.komoot.com/tour/2284471456/embed?share_token=agGv1JCi6k9Q5PdhGDIv8odTZH8Stmrgpp4PJpVZ71Zuft7f4h&image=1&hm=false&width=640&height=600){: loading="lazy"}](https://www.komoot.com/tour/2284471456?share_token=agGv1JCi6k9Q5PdhGDIv8odTZH8Stmrgpp4PJpVZ71Zuft7f4h&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2284471456?share_token=agGv1JCi6k9Q5PdhGDIv8odTZH8Stmrgpp4PJpVZ71Zuft7f4h&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2284471456/embed?share_token=agGv1JCi6k9Q5PdhGDIv8odTZH8Stmrgpp4PJpVZ71Zuft7f4h&amp;image=1&amp;hm=false&amp;width=640&amp;height=600" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 ## More Paris 24 posts
 

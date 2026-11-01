@@ -14,7 +14,7 @@ title: Davyhulme Road East, a collision waiting to happen
 
 Davyhulme Road East is your typical suburban through road. For most of its length, it had two lanes, but widens to five lanes at the A56 / Chester Road end. Most of the road is residential, with a shopping parade at one end and two primary schools [Victoria Park Junior School](http://www.victoriaparkschool.co.uk/) and [St Ann's R.C. Primary School](http://www.stannsrcprimary.co.uk/).
 
-<div class="embed"><iframe src="https://www.google.com/maps/d/u/0/embed?mid=1bijCPhxTu9BPeJEa0K2dRkzx5SA" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><a class="embed-hold" href="https://www.google.com/maps/d/u/0/embed?mid=1bijCPhxTu9BPeJEa0K2dRkzx5SA"><span class="embed-hold-label">Show map</span><span class="embed-hold-note">Google Maps may set cookies</span></a></div>
 
 The road acts as a key route from Urmston, Trafford Park and Intu Trafford Centre to central Manchester and carries quite a lot of traffic at peak times. The traffic can be quite fast at times, with many vehicles travelling above the 30 mph limit. There's a vehicle activated speed sign on the eastbound side, indicating that speeding isn't just a recent issue.
 

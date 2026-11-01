@@ -194,7 +194,7 @@ I'm looking forward to reliving our 2024 trip to Amersfoort and Duinrell, workin
 
 ## Map
 
-[![Route map on Komoot](https://www.komoot.com/tour/2393724437/embed?share_token=atrgjXu4ttYRcUpfIstuAjaSUuMWbNmKy16woC1u2wPOrzmyeM&image=1&hm=false&width=640&height=600){: loading="lazy"}](https://www.komoot.com/tour/2393724437?share_token=atrgjXu4ttYRcUpfIstuAjaSUuMWbNmKy16woC1u2wPOrzmyeM&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2393724437?share_token=atrgjXu4ttYRcUpfIstuAjaSUuMWbNmKy16woC1u2wPOrzmyeM&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2393724437/embed?share_token=atrgjXu4ttYRcUpfIstuAjaSUuMWbNmKy16woC1u2wPOrzmyeM&amp;image=1&amp;hm=false&amp;width=640&amp;height=600" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 ## More Netherlands 24 posts
 

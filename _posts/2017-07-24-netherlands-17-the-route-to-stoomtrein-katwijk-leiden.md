@@ -67,7 +67,7 @@ As we reach Wassenaar, there's a mixture of cycleways and roads as we head towa
 
 After a lovely ride back in the afternoon sun, we were back at Duinrell in time for the evening.
 
-<div class="embed"><iframe src="https://www.google.com/maps/d/u/0/embed?mid=1-J14q_YDCdhReFCzIDIqm4f0CNM" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><a class="embed-hold" href="https://www.google.com/maps/d/u/0/embed?mid=1-J14q_YDCdhReFCzIDIqm4f0CNM"><span class="embed-hold-label">Show map</span><span class="embed-hold-note">Google Maps may set cookies</span></a></div>
 
 <div class="gallery" markdown="1">
 ![](https://f000.backblazeb2.com/file/domcycling/2017-07-24-netherlands-17-the-route-to-stoomtrein-katwijk-leiden/dsc_1106.webp){: loading="lazy"}

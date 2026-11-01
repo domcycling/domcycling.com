@@ -77,7 +77,7 @@ After looping round and heading back down Oudenoord, I took a left and headed al
 
 Riding along Marnixlaan, I was soon back at Amsterdamsestraatweg and at our apartment, where I finished for the evening.
 
-<div class="embed"><iframe src="https://www.google.com/maps/d/u/0/embed?mid=1-evUT19iV0H0PBvkq2FJXX4_DsY" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><a class="embed-hold" href="https://www.google.com/maps/d/u/0/embed?mid=1-evUT19iV0H0PBvkq2FJXX4_DsY"><span class="embed-hold-label">Show map</span><span class="embed-hold-note">Google Maps may set cookies</span></a></div>
 
 <div class="gallery" markdown="1">
 ![](https://f000.backblazeb2.com/file/domcycling/2017-07-20-netherlands-17-around-amsterdamsestraatweg/dsc_0047-e1672175475755.webp){: loading="lazy"}

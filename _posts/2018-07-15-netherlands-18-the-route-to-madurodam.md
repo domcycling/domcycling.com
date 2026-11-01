@@ -56,7 +56,7 @@ We continued along another protected cycleway and passed Scheveningen Prison. We
 
 [![YouTube video](https://img.youtube.com/vi/9UVgQ_3Dns4/hqdefault.jpg)](https://www.youtube.com/watch?v=9UVgQ_3Dns4)
 
-<div class="embed"><iframe src="https://www.google.com/maps/d/u/0/embed?mid=1avqcJMAMJypj4yHax5inWlXayseSuGmS" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><a class="embed-hold" href="https://www.google.com/maps/d/u/0/embed?mid=1avqcJMAMJypj4yHax5inWlXayseSuGmS"><span class="embed-hold-label">Show map</span><span class="embed-hold-note">Google Maps may set cookies</span></a></div>
 
 Now, if you've not been to Madurodam, I can highly recommend it. There’s so much to see and do, you can easily entertain the kids for at least a day.
 
@@ -110,7 +110,7 @@ We had a fantastic day at Madurodam, and ride there and back were pretty good to
 
 [![YouTube video](https://img.youtube.com/vi/kvtfXqOcSr0/hqdefault.jpg)](https://www.youtube.com/watch?v=kvtfXqOcSr0)
 
-<div class="embed"><iframe src="https://www.google.com/maps/d/u/0/embed?mid=1l8J27x09sb8Kp5tMD9tO3UlmMHOAH_pb" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><a class="embed-hold" href="https://www.google.com/maps/d/u/0/embed?mid=1l8J27x09sb8Kp5tMD9tO3UlmMHOAH_pb"><span class="embed-hold-label">Show map</span><span class="embed-hold-note">Google Maps may set cookies</span></a></div>
 
 <div class="gallery" markdown="1">
 ![](https://f000.backblazeb2.com/file/domcycling/2018-07-15-netherlands-18-the-route-to-madurodam/20180604_113214.webp){: loading="lazy"}

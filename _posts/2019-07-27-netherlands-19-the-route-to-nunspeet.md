@@ -84,7 +84,7 @@ We carried on along the cycle route, passing over the odd bridge here and there.
 
 ![20190527_164544](https://f000.backblazeb2.com/file/domcycling/2019-07-27-netherlands-19-the-route-to-nunspeet/20190527_164544.webp){: loading="lazy"}
 
-<div class="embed"><iframe src="https://www.google.co.uk/maps/d/u/0/embed?mid=1lD3YL_uSM2aBHcGf5bj0HuAZzamVdeNH" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><a class="embed-hold" href="https://www.google.co.uk/maps/d/u/0/embed?mid=1lD3YL_uSM2aBHcGf5bj0HuAZzamVdeNH"><span class="embed-hold-label">Show map</span><span class="embed-hold-note">Google Maps may set cookies</span></a></div>
 
 Next to part 2 – [The route to Harderwijk]({{ site.baseurl }}/2019/07/31/netherlands-19-the-route-to-harderwijk/)
 

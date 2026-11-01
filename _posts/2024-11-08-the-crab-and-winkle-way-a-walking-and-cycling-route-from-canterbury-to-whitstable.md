@@ -23,7 +23,7 @@ As I've mentioned in previous [Kent posts]({{ site.baseurl }}/category/kent/), w
 
 The Crab and Winkle Way is a largely traffic-free walking and cycling route between Canterbury and Whitstable, taking its name from the old railway line that used to run between the two places and now forms part of the route. The railway line itself had a chequered history and was never a success, closing in 1952. After sitting derelict for many years, it reopened as a walking and cycling route in 1999.
 
-<div class="embed"><iframe src="https://player.vimeo.com/video/234362431" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><a class="embed-hold" href="https://player.vimeo.com/video/234362431"><span class="embed-hold-label">Show video</span><span class="embed-hold-note">Vimeo may set cookies</span></a></div>
 
 This wasn't the first time I've ridden the Crab and Winkle Way, as we went along here back in May 2011, when it was definitely looking a bit warmer and greener, and I was looking a bit younger!
 
@@ -200,4 +200,4 @@ I really enjoyed riding along the Crab and Winkle Way again. It would have been 
 
 ## Map
 
-<div class="embed"><iframe src="https://www.google.com/maps/d/u/6/embed?mid=1lGewl_CaAMmvECz-DFUdk6KiQXjsskQ&amp;ehbc=2E312F" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><a class="embed-hold" href="https://www.google.com/maps/d/u/6/embed?mid=1lGewl_CaAMmvECz-DFUdk6KiQXjsskQ&amp;ehbc=2E312F"><span class="embed-hold-label">Show map</span><span class="embed-hold-note">Google Maps may set cookies</span></a></div>

@@ -170,7 +170,7 @@ While Zoetermeer might not be at the top of any tourist guides, there's a lovely
 
 The ride there from Duinrell takes you through some fantastic scenery and is well worth doing in itself. The cycling infrastructure in and around Zoetermeer is also well worth experiencing. It's a true network of safe routes and a pleasure to ride round.
 
-<div class="embed"><iframe src="https://www.google.com/maps/d/u/0/embed?mid=1jp69E1nX_20AYr1REWLDUD-KyJV-VRMm" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><a class="embed-hold" href="https://www.google.com/maps/d/u/0/embed?mid=1jp69E1nX_20AYr1REWLDUD-KyJV-VRMm"><span class="embed-hold-label">Show map</span><span class="embed-hold-note">Google Maps may set cookies</span></a></div>
 
 <div class="gallery" markdown="1">
 ![Riding along Backershagenlaan on the way out of Wassenaar](https://f000.backblazeb2.com/file/domcycling/2018-07-26-netherlands-18-the-route-to-zoetermeer/20180608_111047.webp){: loading="lazy"}

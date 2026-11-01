@@ -121,7 +121,7 @@ We really enjoyed our meal as well as the beer, which they have a decent selecti
 
 ## Route
 
-[![Route map on Komoot](https://www.komoot.com/tour/2656323602/embed?share_token=a5z4CsQ7N6icY61wu9N1oRb1uLl5ySRRe3kLpXjOTXP7kpKvoR&image=1&hm=false&profile=1&width=640&height=700){: loading="lazy"}](https://www.komoot.com/tour/2656323602?share_token=a5z4CsQ7N6icY61wu9N1oRb1uLl5ySRRe3kLpXjOTXP7kpKvoR&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2656323602?share_token=a5z4CsQ7N6icY61wu9N1oRb1uLl5ySRRe3kLpXjOTXP7kpKvoR&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2656323602/embed?share_token=a5z4CsQ7N6icY61wu9N1oRb1uLl5ySRRe3kLpXjOTXP7kpKvoR&amp;image=1&amp;hm=false&amp;profile=1&amp;width=640&amp;height=700" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 ## More Netherlands 25 posts
 

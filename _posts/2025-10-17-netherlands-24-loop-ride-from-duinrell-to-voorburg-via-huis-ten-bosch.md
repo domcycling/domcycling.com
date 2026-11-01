@@ -185,7 +185,7 @@ I've enjoyed revisiting and documenting our Netherlands 24 trip. At some point s
 
 ## Route
 
-[![Route map on Komoot](https://www.komoot.com/tour/2589298480/embed?share_token=amoEm1bSwjXvq5hsK9hUaGb34VKHXxw058YQ8xeq8be8t3nZQM&image=1&hm=false&width=700&height=700){: loading="lazy"}](https://www.komoot.com/tour/2589298480?share_token=amoEm1bSwjXvq5hsK9hUaGb34VKHXxw058YQ8xeq8be8t3nZQM&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2589298480?share_token=amoEm1bSwjXvq5hsK9hUaGb34VKHXxw058YQ8xeq8be8t3nZQM&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2589298480/embed?share_token=amoEm1bSwjXvq5hsK9hUaGb34VKHXxw058YQ8xeq8be8t3nZQM&amp;image=1&amp;hm=false&amp;width=700&amp;height=700" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 ## More Netherlands 24 posts
 

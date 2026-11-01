@@ -154,7 +154,7 @@ I was soon back at Duinrell, but needed to head into Wassenaar first, to pick up
 
 ## Route
 
-[![Route map on Komoot](https://www.komoot.com/tour/2708284560/embed?share_token=aDIATYHeXA1b2rlv9fd83IRjLbi6S5hjC1281dhHHw7GgmH9ba&image=1&hm=false&profile=1&width=640&height=700){: loading="lazy"}](https://www.komoot.com/tour/2708284560?share_token=aDIATYHeXA1b2rlv9fd83IRjLbi6S5hjC1281dhHHw7GgmH9ba&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2708284560?share_token=aDIATYHeXA1b2rlv9fd83IRjLbi6S5hjC1281dhHHw7GgmH9ba&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2708284560/embed?share_token=aDIATYHeXA1b2rlv9fd83IRjLbi6S5hjC1281dhHHw7GgmH9ba&amp;image=1&amp;hm=false&amp;profile=1&amp;width=640&amp;height=700" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 ## More Netherlands 25 posts
 

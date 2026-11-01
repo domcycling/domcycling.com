@@ -191,8 +191,8 @@ a:hover { text-decoration: underline; }
 .search-link:hover, .search-link[aria-current] { color: var(--accent); }
 .search-link svg { display: block; }
 
-/* The full menu needs about 920px on one row beside the logo, so tablets in
-   portrait get the Menu button too. */
+/* Tablets in portrait get the Menu button too, because a full menu can need
+   more than their width on one row beside the logo. */
 @media (max-width: 960px) {
   .nav-toggle:not([hidden]) { display: block; }
   /* The search link sits before the Menu button, with the open menu below
@@ -240,11 +240,56 @@ main.wrap { padding-top: 32px; padding-bottom: 56px; }
 .footer-inner p { margin: 0; }
 .site-footer a { color: var(--muted); font-weight: 400; }
 .site-footer a:hover { color: var(--text); }
+.site-footer button {
+  padding: 0;
+  background: none;
+  border: 0;
+  color: var(--muted);
+  font: inherit;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.site-footer button:hover { color: var(--text); }
 /* The links' 40px tap areas are pulled left so the first icon lines up with the text. */
 .social-links { display: flex; flex-wrap: wrap; gap: 4px 8px; list-style: none; margin: 0 0 0 -9px; padding: 0; }
 .social-links a { display: inline-flex; align-items: center; min-width: 40px; min-height: 40px; justify-content: center; }
 .social-links a:hover { color: var(--accent); text-decoration: none; }
 .social-links svg { display: block; }
+
+/* Cookie choice: Accept and Decline look the same on purpose. */
+.cookie-banner {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 50;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 12px 24px;
+  padding: 16px max(16px, env(safe-area-inset-right, 0px)) max(16px, env(safe-area-inset-bottom, 0px)) max(16px, env(safe-area-inset-left, 0px));
+  background: var(--surface);
+  border-top: 1px solid var(--border);
+  box-shadow: 0 -4px 16px rgba(0, 0, 0, .12);
+  font-size: .95rem;
+}
+.cookie-banner:not([hidden]) { display: flex; }
+.cookie-banner p { flex: 0 1 620px; min-width: 0; margin: 0; }
+.cookie-buttons { display: flex; gap: 12px; }
+.cookie-button {
+  min-width: 96px;
+  min-height: 44px;
+  padding: 8px 16px;
+  background: none;
+  border: 1px solid var(--text);
+  border-radius: var(--radius);
+  color: var(--text);
+  font-family: var(--heading);
+  font-size: .9rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+.cookie-button:hover { border-color: var(--accent); color: var(--accent); }
 
 /* ---------- Home page cards ---------- */
 
@@ -392,6 +437,28 @@ main.wrap { padding-top: 32px; padding-bottom: 56px; }
 .embed iframe { display: block; width: 100%; aspect-ratio: 4 / 3; border: 0; border-radius: 6px; }
 .embed-video iframe { aspect-ratio: 16 / 9; }
 .embed-map iframe { aspect-ratio: 3 / 2; min-height: 420px; }
+/* Maps, routes and videos wait behind this link until selected or accepted. */
+a.embed-hold {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  padding: 16px;
+  background: var(--accent-soft);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  font-family: var(--heading);
+  text-align: center;
+  text-decoration: none;
+}
+.embed-video a.embed-hold { aspect-ratio: 16 / 9; }
+.embed-map a.embed-hold { aspect-ratio: 3 / 2; min-height: 420px; }
+.embed-hold-label { font-size: 1.1rem; font-weight: 700; }
+.embed-hold-note { color: var(--muted); font-size: .85rem; }
+.embed-route img { display: block; margin: 0 auto; border-radius: 6px; }
 
 /* YouTube thumbnails (made clickable by site.js). */
 a.video { position: relative; display: block; margin: 0; border-radius: 6px; overflow: hidden; }

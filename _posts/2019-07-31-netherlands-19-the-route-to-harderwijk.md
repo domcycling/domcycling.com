@@ -142,7 +142,7 @@ Before too long, we arrived back at our holiday park, after having a fantastic d
 ![20190528_200244](https://f000.backblazeb2.com/file/domcycling/2019-07-31-netherlands-19-the-route-to-harderwijk/20190528_200244.webp){: loading="lazy"}
 *Almost back at the holiday park, after a fantastic day in Harderwijk*
 
-<div class="embed"><iframe src="https://www.google.co.uk/maps/d/u/0/embed?mid=1jzUVOPI1xEPpa6gy_GlzqxAg7gdYRdfC" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><a class="embed-hold" href="https://www.google.co.uk/maps/d/u/0/embed?mid=1jzUVOPI1xEPpa6gy_GlzqxAg7gdYRdfC"><span class="embed-hold-label">Show map</span><span class="embed-hold-note">Google Maps may set cookies</span></a></div>
 
 Back to part 1 – [The route to Nunspeet]({{ site.baseurl }}/2019/07/27/netherlands-19-the-route-to-nunspeet/)
 

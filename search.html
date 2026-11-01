@@ -16,4 +16,4 @@ sitemap: false
 <noscript><p class="search-noscript">Search needs JavaScript. You can browse the <a href="{{ '/archive/' | relative_url }}">Archive</a> or <a href="{{ '/tags/' | relative_url }}">Topics</a> instead.</p></noscript>
 <ul class="search-results"></ul>
 <script src="{{ '/assets/js/minisearch.min.js' | relative_url }}" defer></script>
-<script src="{{ '/assets/js/search.js' | relative_url }}" defer></script>
+<script src="{{ '/assets/js/search.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>

@@ -159,7 +159,7 @@ Turning left at Marnixlaan and right onto Amsterdamsestraatweg, we were back to 
 
 It was great to go back to Utrecht to see what's changed since our last visit. It's such a vibrant city and there's clearly a lot of drive to make things even better for cycling. We didn't get to see everything though, including the [vast new cycle parking facility](https://bicycledutch.wordpress.com/2019/08/20/finally-fully-open-utrechts-huge-bicycle-parking-garage/) that's just opened. So I expect we'll be back again soon!
 
-<div class="embed"><iframe src="https://www.google.co.uk/maps/d/u/0/embed?mid=1sJqb2tuyrv-BiQDRKLA1NQIcaJ2CaCmO" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><a class="embed-hold" href="https://www.google.co.uk/maps/d/u/0/embed?mid=1sJqb2tuyrv-BiQDRKLA1NQIcaJ2CaCmO"><span class="embed-hold-label">Show map</span><span class="embed-hold-note">Google Maps may set cookies</span></a></div>
 
 <div class="gallery" markdown="1">
 ![](https://f000.backblazeb2.com/file/domcycling/2019-08-31-netherlands-19-utrecht-revisited/20190530_122600.webp){: loading="lazy"}

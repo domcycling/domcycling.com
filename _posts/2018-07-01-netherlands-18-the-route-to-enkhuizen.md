@@ -75,7 +75,7 @@ We returned along this route again during our stay to visit the rather excellent
 
 [![YouTube video](https://img.youtube.com/vi/IEjfeLKcDVw/hqdefault.jpg)](https://www.youtube.com/watch?v=IEjfeLKcDVw)
 
-<div class="embed"><iframe src="https://www.google.com/maps/d/u/0/embed?mid=1UnIsTCzS5Yw-Wix5tTnvbfIR-CYx2ZOa" loading="lazy" allowfullscreen></iframe></div>
+<div class="embed"><a class="embed-hold" href="https://www.google.com/maps/d/u/0/embed?mid=1UnIsTCzS5Yw-Wix5tTnvbfIR-CYx2ZOa"><span class="embed-hold-label">Show map</span><span class="embed-hold-note">Google Maps may set cookies</span></a></div>
 
 <div class="gallery" markdown="1">
 ![](https://f000.backblazeb2.com/file/domcycling/2018-07-01-netherlands-18-the-route-to-enkhuizen/20180528_111506.webp){: loading="lazy"}

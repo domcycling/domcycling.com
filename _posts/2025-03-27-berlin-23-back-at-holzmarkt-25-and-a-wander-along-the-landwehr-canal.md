@@ -137,7 +137,7 @@ While riding round, I got to see some of the local street art, which definitely 
 
 ## Map
 
-[![Route map on Komoot](https://www.komoot.com/tour/2117247205/embed?share_token=atwZWnfCpLr1tvc4TBMoe5Salj2HwHvm00m68Bk70eN7JWdEPd&image=1&hm=false&width=640&height=600){: loading="lazy"}](https://www.komoot.com/tour/2117247205?share_token=atwZWnfCpLr1tvc4TBMoe5Salj2HwHvm00m68Bk70eN7JWdEPd&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2117247205?share_token=atwZWnfCpLr1tvc4TBMoe5Salj2HwHvm00m68Bk70eN7JWdEPd&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2117247205/embed?share_token=atwZWnfCpLr1tvc4TBMoe5Salj2HwHvm00m68Bk70eN7JWdEPd&amp;image=1&amp;hm=false&amp;width=640&amp;height=600" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 ## Wandering along the Landwehr Canal
 
@@ -218,7 +218,7 @@ From there, it was a short ride down Alexanderstraße and a few turns before rea
 
 ## Map
 
-[![Route map on Komoot](https://www.komoot.com/tour/2117251474/embed?share_token=aM2jhtNNCnAFimdffAY44XMs7AwA8jubd5Ht74l9bYfNxhTR0a&image=1&hm=false&width=640&height=600){: loading="lazy"}](https://www.komoot.com/tour/2117251474?share_token=aM2jhtNNCnAFimdffAY44XMs7AwA8jubd5Ht74l9bYfNxhTR0a&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2117251474?share_token=aM2jhtNNCnAFimdffAY44XMs7AwA8jubd5Ht74l9bYfNxhTR0a&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2117251474/embed?share_token=aM2jhtNNCnAFimdffAY44XMs7AwA8jubd5Ht74l9bYfNxhTR0a&amp;image=1&amp;hm=false&amp;width=640&amp;height=600" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 ## Heading home
 

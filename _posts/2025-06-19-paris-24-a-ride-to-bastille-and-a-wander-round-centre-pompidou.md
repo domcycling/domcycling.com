@@ -76,7 +76,7 @@ Once a busy expressway through the centre of Paris, the Tunnel des Tuileries is 
 
 After my third ride along the tunnel, I made made towards Place de la Bastille, making use of more really good bidirectional cycle lanes on the way. From there, I docked by Vélib bike and went for coffee as I waited for the others to arrive.
 
-[![Route map on Komoot](https://www.komoot.com/tour/2325444939/embed?share_token=aatU416r136wNPdRL7uegQnoirDd1GDsshQ5rrRVeLUesoHwoq&image=1&hm=false&width=640&height=600){: loading="lazy"}](https://www.komoot.com/tour/2325444939?share_token=aatU416r136wNPdRL7uegQnoirDd1GDsshQ5rrRVeLUesoHwoq&ref=profile)
+<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2325444939?share_token=aatU416r136wNPdRL7uegQnoirDd1GDsshQ5rrRVeLUesoHwoq&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2325444939/embed?share_token=aatU416r136wNPdRL7uegQnoirDd1GDsshQ5rrRVeLUesoHwoq&amp;image=1&amp;hm=false&amp;width=640&amp;height=600" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 <div class="gallery" markdown="1">
 ![Painted lane on Avenue de Villiers](https://f000.backblazeb2.com/file/domcycling/2025-06-19-paris-24-a-ride-to-bastille-and-a-wander-round-centre-pompidou/20240530_090248.webp){: loading="lazy"}
