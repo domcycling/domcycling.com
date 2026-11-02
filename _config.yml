@@ -33,23 +33,27 @@ navigation:
   url: /category/series/
   children:
   - title: Netherlands 15
-    url: /category/series/netherlands-15/
+    url: /series/netherlands-15/
   - title: Netherlands 16
-    url: /category/series/netherlands-16/
+    url: /series/netherlands-16/
   - title: Netherlands 17
     url: /series/netherlands-17/
   - title: Netherlands 18
     url: /series/netherlands-18/
   - title: Netherlands 19
     url: /series/netherlands-19/
+  - title: France 19
+    url: /series/france-19/
+  - title: Netherlands 20
+    url: /series/netherlands-20/
   - title: Netherlands 22
-    url: /category/series/netherlands-22/
+    url: /series/netherlands-22/
   - title: Germany 22
-    url: /category/series/germany-22/
+    url: /series/germany-22/
   - title: Somerset 23
-    url: /category/series/somerset-23/
+    url: /series/somerset-23/
   - title: Helsinki 23
-    url: /category/series/helsinki-23/
+    url: /series/helsinki-23/
   - title: Berlin 23
     url: /series/berlin-23/
   - title: Paris 24

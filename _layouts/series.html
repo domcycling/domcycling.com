@@ -1,0 +1,28 @@
+---
+layout: default
+---
+{% assign series_posts = site.categories[page.category] | sort: "date" %}
+{% assign title_prefix = page.title | append: ": " %}
+<article class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+  <div class="post-content">
+    {{ content }}
+    {%- for post in series_posts %}
+    {%- comment -%} Some WordPress titles have a non-breaking space after the colon. {%- endcomment %}
+    {%- assign post_title = post.title | replace: " ", " " | remove_first: title_prefix %}
+    {%- assign summary = page.summaries[post.slug] | default: post.excerpt | strip_html | normalize_whitespace %}
+    {%- if summary == "" %}{% assign summary = post.content | strip_html | normalize_whitespace %}{% endif %}
+    {%- if post.image %}
+    <p><img src="{{ post.image | relative_url }}" alt="{{ post_title | escape }}" loading="lazy"></p>
+    {%- endif %}
+    <h2><a href="{{ post.url | relative_url }}">{{ post_title }}</a></h2>
+    <p>{{ summary | truncatewords: 75 }}</p>
+    <p><a href="{{ post.url | relative_url }}">Continue reading</a></p>
+    {%- unless forloop.last %}
+    <hr>
+    {%- endunless %}
+    {%- endfor %}
+  </div>
+</article>
