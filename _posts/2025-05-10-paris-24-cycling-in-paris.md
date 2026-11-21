@@ -265,4 +265,18 @@ Somewhat unsurprisingly, there were lots of mixte style bikes, which are a popul
 ![Parked vintage bike](https://f000.backblazeb2.com/file/domcycling/2025-05-10-paris-24-cycling-in-paris/20240601_153434.webp){: loading="lazy"}
 </div>
 
-This is the first in the Paris 24 series, so expect more posts soon as I cover our Paris trip in detail, with plenty of cycling. Come back soon.
+## More Paris 24 posts
+
+---
+
+Further posts from our trip to Paris in 2024
+
+* [Cycling in Paris]({{ site.baseurl }}/2025/05/10/paris-24-cycling-in-paris/)
+* [Wandering round Parc Clichy-Batignolles – Martin Luther King and up the Arc de Triomphe]({{ site.baseurl }}/2025/05/18/paris-24-wandering-round-parc-clichy-batignolles-martin-luther-king-and-up-the-arc-de-triomphe/)
+* [A day in Montmartre]({{ site.baseurl }}/2025/05/22/paris-24-a-day-in-montmartre/)
+* [Fat Tire Tour of Paris]({{ site.baseurl }}/2025/05/31/paris-24-fat-tire-tour-of-paris/)
+* [In the Paris Catacombs]({{ site.baseurl }}/2025/06/06/paris-24-in-the-paris-catacombs/)
+* [Cité des Sciences et de l’Industrie, Paris’ museum of science and industry]({{ site.baseurl }}/2025/06/13/paris-24-cite-des-sciences-et-de-lindustrie-paris-museum-of-science-and-industry/)
+* [A ride to Bastille and a wander round Centre Pompidou]({{ site.baseurl }}/2025/06/19/paris-24-a-ride-to-bastille-and-a-wander-round-centre-pompidou/)
+* [Wandering along Canal Saint-Martin]({{ site.baseurl }}/2025/06/25/paris-24-wandering-along-canal-saint-martin/)
+* [A walk along the Coulée verte René-Dumont, Paris’ High Line]({{ site.baseurl }}/2025/06/29/paris-24-a-walk-along-the-coulee-verte-rene-dumont-paris-high-line/)
