@@ -229,7 +229,7 @@ For breakfast, we had pasties at [Pastelaria Lagares](https://maps.app.goo.gl/e6
 ![Some tasty Bola De Berlims from Confeitaria Nacional](https://f000.backblazeb2.com/file/domcycling/2026-11-22-two-weeks-in-lisbon/img_8443.webp){: loading="lazy"}
 *Some tasty Bola De Berlims from Confeitaria Nacional*
 
-While definitely a tourist hotspot, we really enjoyed Breakfast Lovers in [Graça](https://maps.app.goo.gl/rNXr3sqB2oaQb9Ez5){:target="_blank"} and [Chiado](https://maps.app.goo.gl/HFgFMwwayWFhBnGa8){:target="_blank"}.
+While definitely a tourist hotspot and in no way authentic Portuguese, we really enjoyed Breakfast Lovers in [Graça](https://maps.app.goo.gl/rNXr3sqB2oaQb9Ez5){:target="_blank"} and [Chiado](https://maps.app.goo.gl/HFgFMwwayWFhBnGa8){:target="_blank"}. The food was lovely and reasonably priced for the amount you got, though it does get fairly busy and queueing is common.
 
 ![Enjoying breakfast at Breakfast Lovers Chiado](https://f000.backblazeb2.com/file/domcycling/2026-11-22-two-weeks-in-lisbon/img_9184.webp){: loading="lazy"}
 *Enjoying breakfast at Breakfast Lovers Chiado*
