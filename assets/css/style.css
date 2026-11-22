@@ -339,6 +339,14 @@ main.wrap { padding-top: 32px; padding-bottom: 56px; }
 .post { max-width: var(--measure); margin: 0 auto; }
 
 .post-header { margin-bottom: 28px; }
+.post-header img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 6px;
+  cursor: zoom-in;
+}
 .post-title {
   font-family: var(--heading);
   font-size: clamp(1.9rem, 4vw, 2.6rem);

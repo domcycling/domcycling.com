@@ -11,6 +11,7 @@ layout: default
       {%- endif %}
     </p>
     {% include tag-list.html tags=page.tags %}
+    <p><img src="{{ page.image | relative_url }}" alt="{{ post_title | escape }}" loading="lazy"></p>
   </header>
 
   <div class="post-content">
