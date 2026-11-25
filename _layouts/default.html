@@ -15,18 +15,20 @@
   {%- comment -%} GitHub Pages lets browsers keep files for 10 minutes; a new address per build means a new page never gets old styles. {%- endcomment %}
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v={{ site.time | date: '%s' }}">
   <script src="{{ '/assets/js/site.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
+  {%- if site.cloudflare_analytics_token and site.cloudflare_analytics_token != "" and jekyll.environment == "production" %}
+  {%- comment -%} Cookieless, so it needs no consent; only production builds load it, so previews aren't counted. {%- endcomment %}
+  <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "{{ site.cloudflare_analytics_token }}"}'></script>
+  {%- endif %}
 </head>
 <body>
-  {%- if site.google_analytics %}
-  {%- comment -%} site.js shows this and loads Google Analytics after Accept; only production builds name the ID, so previews aren't counted. {%- endcomment %}
-  <section class="cookie-banner" aria-label="Cookies"{% if jekyll.environment == "production" %} data-analytics-id="{{ site.google_analytics | escape }}"{% endif %} hidden>
-    <p>This site would like to use optional cookies for Google Analytics, and for maps, routes and videos from other sites. <a href="{{ '/privacy/' | relative_url }}">Privacy and cookies</a></p>
+  {%- comment -%} site.js shows this only on pages with maps, routes or videos, and loads them all after Accept. {%- endcomment %}
+  <section class="cookie-banner" aria-label="Cookies" hidden>
+    <p>Maps, routes and videos on this site come from Google Maps, Komoot, Vimeo and YouTube, which can set their own cookies. Accept to show them all, or show each one with its button. <a href="{{ '/privacy/' | relative_url }}">Privacy and cookies</a></p>
     <div class="cookie-buttons">
       <button class="cookie-button" type="button" data-cookie-choice="accepted">Accept</button>
       <button class="cookie-button" type="button" data-cookie-choice="declined">Decline</button>
     </div>
   </section>
-  {%- endif %}
   <header class="site-header">
     <div class="wrap header-inner">
       <a class="site-brand" href="{{ '/' | relative_url }}">
@@ -101,9 +103,7 @@
         <!-- Not written yet: &middot; <a href="{{ '/about/' | relative_url }}">About</a> -->
         &middot; <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
         &middot; <a href="{{ '/privacy/' | relative_url }}">Privacy</a>
-        {%- if site.google_analytics %}
-        <span class="cookie-settings" hidden>&middot; <button type="button">Cookie settings</button></span>
-        {%- endif %}</p>
+        <span class="cookie-settings" hidden>&middot; <button type="button">Cookie settings</button></span></p>
     </div>
   </footer>
 </body>
