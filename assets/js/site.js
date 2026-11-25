@@ -110,7 +110,7 @@
     });
   });
 
-  // ---- Cookies: nothing optional runs until the reader accepts. ----
+  // ---- Cookies: no embed loads until the reader accepts or selects it. ----
   var CHOICE_KEY = "cookie-choice";
   var CHOICE_DAYS = 365; // then ask again
   var banner = document.querySelector(".cookie-banner");
@@ -131,21 +131,9 @@
     } catch (e) { /* the choice lasts for this page only */ }
   }
 
-  function loadAnalytics() {
-    var id = banner && banner.getAttribute("data-analytics-id");
-    if (!id || window.gtag) return;
-    window.dataLayer = window.dataLayer || [];
-    window.gtag = function () { window.dataLayer.push(arguments); };
-    window.gtag("js", new Date());
-    window.gtag("config", id);
-    var tag = document.createElement("script");
-    tag.async = true;
-    tag.src = "https://www.googletagmanager.com/gtag/js?id=" + encodeURIComponent(id);
-    document.head.appendChild(tag);
-  }
-
-  // Google Analytics sets its cookies on the widest domain it can.
-  function clearAnalyticsCookies() {
+  // The site used Google Analytics until November 2026: remove the cookies it
+  // left for readers who accepted then. It set them on the widest domain it could.
+  function clearOldAnalyticsCookies() {
     var parts = location.hostname.split(".");
     document.cookie.split("; ").forEach(function (cookie) {
       var name = cookie.split("=")[0];
@@ -161,20 +149,18 @@
     heldEmbeds.forEach(function (link) {
       if (link.classList.contains("embed-hold")) showEmbed(link);
     });
-    loadAnalytics();
   }
 
-  // Cleared as a page starts, when Google Analytics can't be running: it
-  // would write its cookies back as a page closes.
+  clearOldAnalyticsCookies();
   var choice = savedChoice();
   if (choice === "accepted") allowOptional();
-  else clearAnalyticsCookies();
 
   if (banner) {
     var settings = document.querySelector(".cookie-settings");
     var settingsButton = settings.querySelector("button");
     var choiceButtons = banner.querySelectorAll("[data-cookie-choice]");
-    banner.hidden = choice !== null;
+    // Only pages with something to show need to ask.
+    banner.hidden = choice !== null || !heldEmbeds.length;
     settings.hidden = false;
 
     settingsButton.addEventListener("click", function () {
@@ -193,7 +179,7 @@
         if (choice === "accepted") {
           allowOptional();
         } else if (previous === "accepted") {
-          // Reloading removes the embeds and Google Analytics from this page.
+          // Reloading removes the embeds from this page.
           location.reload();
         }
       });

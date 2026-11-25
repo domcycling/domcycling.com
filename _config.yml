@@ -3,7 +3,7 @@ url: https://domcycling.com
 baseurl: ''
 description: A blog about cycling and urbanism, by someone called Dom
 logo: https://f000.backblazeb2.com/file/domcycling/dom-cycling-3.png
-google_analytics: G-X6Q5ZD99ED
+cloudflare_analytics_token: dd752de3fb4d49b786a2eda811be2f25
 google_my_map: 1t604Hoz4WyCW9ApULpSd9prWDlu78Ms
 contact_email_encoded: ZG9tY3ljbGluZ2NvbUBnbWFpbC5jb20=
 social_links:
