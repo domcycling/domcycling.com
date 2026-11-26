@@ -93,7 +93,8 @@
       return;
     }
     var frame = document.createElement("iframe");
-    frame.src = link.href;
+    // data-embed-src lets the link go to the page itself while the frame loads its embed.
+    frame.src = link.getAttribute("data-embed-src") || link.href;
     frame.title = link.getAttribute("data-embed-title") || "Embedded content";
     frame.loading = "lazy";
     frame.allowFullscreen = true;

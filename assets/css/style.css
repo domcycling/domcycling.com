@@ -464,6 +464,8 @@ a.embed-hold {
 }
 .embed-video a.embed-hold { aspect-ratio: 16 / 9; }
 .embed-map a.embed-hold { aspect-ratio: 3 / 2; min-height: 420px; }
+/* Komoot's interactive tour (map plus elevation profile) needs a fixed height. */
+.embed-tour iframe, .embed-tour a.embed-hold { aspect-ratio: auto; height: 700px; max-height: 85vh; }
 .embed-hold-label { font-size: 1.1rem; font-weight: 700; }
 .embed-hold-note { color: var(--muted); font-size: .85rem; }
 .embed-route img { display: block; margin: 0 auto; border-radius: 6px; }
