@@ -28,15 +28,15 @@ title: 'Lisbon 26: Cycling in Lisbon'
 ---
 
 <div class="gallery" markdown="1">
-![](https://f000.backblazeb2.com/file/domcycling/2026-11-25-cycling-in-lisbon/img_5942.webp){: loading="lazy"}
-![](https://f000.backblazeb2.com/file/domcycling/2026-11-25-cycling-in-lisbon/img_6254.webp){: loading="lazy"}
-![](https://f000.backblazeb2.com/file/domcycling/2026-11-25-cycling-in-lisbon/img_6294.webp){: loading="lazy"}
-![](https://f000.backblazeb2.com/file/domcycling/2026-11-25-cycling-in-lisbon/img_6310.webp){: loading="lazy"}
-![](https://f000.backblazeb2.com/file/domcycling/2026-11-25-cycling-in-lisbon/img_6311.webp){: loading="lazy"}
-![](https://f000.backblazeb2.com/file/domcycling/2026-11-25-cycling-in-lisbon/img_6715.webp){: loading="lazy"}
-![](https://f000.backblazeb2.com/file/domcycling/2026-11-25-cycling-in-lisbon/img_6732.webp){: loading="lazy"}
-![](https://f000.backblazeb2.com/file/domcycling/2026-11-25-cycling-in-lisbon/img_6908.webp){: loading="lazy"}
-![](https://f000.backblazeb2.com/file/domcycling/2026-11-25-cycling-in-lisbon/img_7255.webp){: loading="lazy"}
+![Cycle lanes in Praça da Figueira](https://f000.backblazeb2.com/file/domcycling/2026-11-25-cycling-in-lisbon/img_5942.webp){: loading="lazy"}
+![Person cycling along the Tagus river path](https://f000.backblazeb2.com/file/domcycling/2026-11-25-cycling-in-lisbon/img_6254.webp){: loading="lazy"}
+![Tagus river path](https://f000.backblazeb2.com/file/domcycling/2026-11-25-cycling-in-lisbon/img_6294.webp){: loading="lazy"}
+![A very bumpy, poorly marked cycle lane](https://f000.backblazeb2.com/file/domcycling/2026-11-25-cycling-in-lisbon/img_6310.webp){: loading="lazy"}
+![A very bumpy, poorly marked cycle lane](https://f000.backblazeb2.com/file/domcycling/2026-11-25-cycling-in-lisbon/img_6311.webp){: loading="lazy"}
+![People cycling on Avenida Ribeira das Naus, next to the Tagus](https://f000.backblazeb2.com/file/domcycling/2026-11-25-cycling-in-lisbon/img_6715.webp){: loading="lazy"}
+![Cycle path on Avenida Tenente Coronel Melo Antunes, Carcavelos](https://f000.backblazeb2.com/file/domcycling/2026-11-25-cycling-in-lisbon/img_6732.webp){: loading="lazy"}
+![Docked Gira bikes in Belém](https://f000.backblazeb2.com/file/domcycling/2026-11-25-cycling-in-lisbon/img_6908.webp){: loading="lazy"}
+![Person riding a Gira bike at Praça Marquês de Pombal](https://f000.backblazeb2.com/file/domcycling/2026-11-25-cycling-in-lisbon/img_7255.webp){: loading="lazy"}
 ![](https://f000.backblazeb2.com/file/domcycling/2026-11-25-cycling-in-lisbon/img_7989.webp){: loading="lazy"}
 ![](https://f000.backblazeb2.com/file/domcycling/2026-11-25-cycling-in-lisbon/img_8068.webp){: loading="lazy"}
 ![](https://f000.backblazeb2.com/file/domcycling/2026-11-25-cycling-in-lisbon/img_8351.webp){: loading="lazy"}
@@ -120,6 +120,10 @@ title: 'Lisbon 26: Cycling in Lisbon'
 ![](https://f000.backblazeb2.com/file/domcycling/2026-11-25-cycling-in-lisbon/img_6690.webp){: loading="lazy"}
 </div>
 
+### Map
+
+<div class="embed embed-tour"><a class="embed-hold" href="https://www.komoot.com/tour/3406378795?share_token=aPQRGw7ziYo2LlgiCpkyuDyzdi9MYIE6kLmZupaUwpqpQ80fEz&amp;ref=profile" data-embed-src="https://www.komoot.com/tour/3406378795/embed?share_token=aPQRGw7ziYo2LlgiCpkyuDyzdi9MYIE6kLmZupaUwpqpQ80fEz&amp;layout=classic&amp;profile=1&amp;line=4f6814" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
+
 ## Gira bike share
 
 <div class="gallery" markdown="1">
@@ -156,4 +160,3 @@ title: 'Lisbon 26: Cycling in Lisbon'
 ![](https://f000.backblazeb2.com/file/domcycling/2026-11-25-cycling-in-lisbon/img_9029.webp){: loading="lazy"}
 </div>
 
-<div class="embed embed-tour"><a class="embed-hold" href="https://www.komoot.com/tour/3406378795?share_token=aPQRGw7ziYo2LlgiCpkyuDyzdi9MYIE6kLmZupaUwpqpQ80fEz&amp;ref=profile" data-embed-src="https://www.komoot.com/tour/3406378795/embed?share_token=aPQRGw7ziYo2LlgiCpkyuDyzdi9MYIE6kLmZupaUwpqpQ80fEz&amp;layout=classic&amp;profile=1&amp;line=4f6814" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
