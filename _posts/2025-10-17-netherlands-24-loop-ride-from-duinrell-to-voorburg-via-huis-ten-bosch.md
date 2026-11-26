@@ -185,7 +185,7 @@ I've enjoyed revisiting and documenting our Netherlands 24 trip. At some point s
 
 ## Route
 
-<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2589298480?share_token=amoEm1bSwjXvq5hsK9hUaGb34VKHXxw058YQ8xeq8be8t3nZQM&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2589298480/embed?share_token=amoEm1bSwjXvq5hsK9hUaGb34VKHXxw058YQ8xeq8be8t3nZQM&amp;image=1&amp;hm=false&amp;width=700&amp;height=700" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
+<div class="embed embed-tour"><a class="embed-hold" href="https://www.komoot.com/tour/2589298480?share_token=amoEm1bSwjXvq5hsK9hUaGb34VKHXxw058YQ8xeq8be8t3nZQM&amp;ref=profile" data-embed-src="https://www.komoot.com/tour/2589298480/embed?share_token=amoEm1bSwjXvq5hsK9hUaGb34VKHXxw058YQ8xeq8be8t3nZQM&amp;layout=classic&amp;profile=1&amp;line=4f6814" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 ## More Netherlands 24 posts
 

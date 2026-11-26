@@ -222,7 +222,7 @@ After enjoying our kebabs, we headed back to our Airbnb home after another fanta
 
 ## Route
 
-<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2100325831?share_token=a125cW3DjrnjUtJPLWsbdHPo41RiXQOfp7eNSrn5zxAcy8CyS8&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2100325831/embed?share_token=a125cW3DjrnjUtJPLWsbdHPo41RiXQOfp7eNSrn5zxAcy8CyS8&amp;image=1&amp;hm=false&amp;width=640&amp;height=600" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
+<div class="embed embed-tour"><a class="embed-hold" href="https://www.komoot.com/tour/2100325831?share_token=a125cW3DjrnjUtJPLWsbdHPo41RiXQOfp7eNSrn5zxAcy8CyS8&amp;ref=profile" data-embed-src="https://www.komoot.com/tour/2100325831/embed?share_token=a125cW3DjrnjUtJPLWsbdHPo41RiXQOfp7eNSrn5zxAcy8CyS8&amp;layout=classic&amp;profile=1&amp;line=4f6814" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 ## More Berlin 23 posts
 
