@@ -98,7 +98,7 @@ I think a lot of this can be put down to Wassenaar being quite a car-centric tow
 
 I was soon arrived at Duinrell and made my way to meet the others, who were now ready to head out on a ride to Leiden.
 
-<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2535159589?share_token=afnQuyRYxAsLUeaKft1KkWPkjl0cMbDG8ZyQsssXO5APuEIWKd&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2535159589/embed?share_token=afnQuyRYxAsLUeaKft1KkWPkjl0cMbDG8ZyQsssXO5APuEIWKd&amp;image=1&amp;hm=false&amp;width=640&amp;height=600" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
+<div class="embed embed-tour"><a class="embed-hold" href="https://www.komoot.com/tour/2535159589?share_token=afnQuyRYxAsLUeaKft1KkWPkjl0cMbDG8ZyQsssXO5APuEIWKd&amp;ref=profile" data-embed-src="https://www.komoot.com/tour/2535159589/embed?share_token=afnQuyRYxAsLUeaKft1KkWPkjl0cMbDG8ZyQsssXO5APuEIWKd&amp;layout=classic&amp;profile=1&amp;line=4f6814" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 <div class="gallery" markdown="1">
 ![Smooth asphalt bidirectional cycle path on N441 Katwijkseweg](https://f000.backblazeb2.com/file/domcycling/2025-09-06-netherlands-24-riding-around-wassenaar/20240804_095018.webp){: loading="lazy"}

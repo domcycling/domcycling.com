@@ -131,7 +131,7 @@ At the end of N441 Wassenaarweg, I crossed the roundabout onto Katwijkseweg, the
 
 ## Route
 
-<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2586952721?share_token=aTZuXNEbWi9bu14sV7EvnpOW3CtD4H4HkeJaFMpZjJcCKBzX3d&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2586952721/embed?share_token=aTZuXNEbWi9bu14sV7EvnpOW3CtD4H4HkeJaFMpZjJcCKBzX3d&amp;image=1&amp;hm=false&amp;profile=1&amp;width=700%25&amp;height=700" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
+<div class="embed embed-tour"><a class="embed-hold" href="https://www.komoot.com/tour/2586952721?share_token=aTZuXNEbWi9bu14sV7EvnpOW3CtD4H4HkeJaFMpZjJcCKBzX3d&amp;ref=profile" data-embed-src="https://www.komoot.com/tour/2586952721/embed?share_token=aTZuXNEbWi9bu14sV7EvnpOW3CtD4H4HkeJaFMpZjJcCKBzX3d&amp;layout=classic&amp;profile=1&amp;line=4f6814" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 ## More Netherlands 24 posts
 

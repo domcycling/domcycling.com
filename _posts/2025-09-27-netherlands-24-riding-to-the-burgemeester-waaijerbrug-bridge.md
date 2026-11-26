@@ -225,7 +225,7 @@ Approaching Wassenaar, I crossed the N17, then continued a little further before
 
 ## Route
 
-<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2563252094?share_token=aJV8MTYQdlxFJzwMl0gxFD9UP0t6F3B21dKV25euLG4iqvV50t&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2563252094/embed?share_token=aJV8MTYQdlxFJzwMl0gxFD9UP0t6F3B21dKV25euLG4iqvV50t&amp;image=1&amp;hm=false&amp;width=640&amp;height=600" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
+<div class="embed embed-tour"><a class="embed-hold" href="https://www.komoot.com/tour/2563252094?share_token=aJV8MTYQdlxFJzwMl0gxFD9UP0t6F3B21dKV25euLG4iqvV50t&amp;ref=profile" data-embed-src="https://www.komoot.com/tour/2563252094/embed?share_token=aJV8MTYQdlxFJzwMl0gxFD9UP0t6F3B21dKV25euLG4iqvV50t&amp;layout=classic&amp;profile=1&amp;line=4f6814" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
 
 ## More Netherlands 24 posts
 

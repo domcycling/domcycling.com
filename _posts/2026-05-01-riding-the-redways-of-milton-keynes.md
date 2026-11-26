@@ -291,4 +291,4 @@ After waiting so long to visit the city, I was expecting a lot from Milton Keyne
 
 ## Route
 
-<div class="embed embed-route"><a class="embed-hold" href="https://www.komoot.com/tour/2904612175?share_token=a632OxKYm596jgIviopIjdIHJZzgvwo3zJ7NQCmAvR1lERk10M&amp;ref=profile" data-embed-image="https://www.komoot.com/tour/2904612175/embed?share_token=a632OxKYm596jgIviopIjdIHJZzgvwo3zJ7NQCmAvR1lERk10M&amp;image=1&amp;hm=false&amp;profile=1&amp;width=640&amp;height=700" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
+<div class="embed embed-tour"><a class="embed-hold" href="https://www.komoot.com/tour/2904612175?share_token=a632OxKYm596jgIviopIjdIHJZzgvwo3zJ7NQCmAvR1lERk10M&amp;ref=profile" data-embed-src="https://www.komoot.com/tour/2904612175/embed?share_token=a632OxKYm596jgIviopIjdIHJZzgvwo3zJ7NQCmAvR1lERk10M&amp;layout=classic&amp;profile=1&amp;line=4f6814" data-embed-title="Route map on Komoot"><span class="embed-hold-label">Show route</span><span class="embed-hold-note">Komoot may set cookies</span></a></div>
