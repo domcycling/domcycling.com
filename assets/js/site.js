@@ -187,12 +187,19 @@
     });
   }
 
-  // ---- Lightbox: click any post photo to view it full size. ----
+  // ---- Lightbox: click any post photo to view it full size. Galleries can ----
+  // ---- also be shown as a grid ("View all"). Each gallery shows only its  ----
+  // ---- first photo (CSS hides the rest, so they don't download) with a    ----
+  // ---- "View gallery" button over it.                                     ----
   var images = Array.prototype.filter.call(
     document.querySelectorAll(".post-content img"),
     function (img) { return !img.closest("a"); }
   );
   if (!images.length) return;
+
+  var GRID_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">' +
+    '<rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/>' +
+    '<rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg>';
 
   function captionFor(img) {
     if (img.title) return img.title;
@@ -217,21 +224,28 @@
   box.setAttribute("aria-label", "Photo viewer");
   box.innerHTML =
     '<span class="lightbox-count"></span>' +
+    '<button class="lightbox-all" type="button" hidden>' + GRID_ICON + '<span>View all</span></button>' +
     '<button class="lightbox-close" type="button" aria-label="Close">&times;</button>' +
     '<button class="lightbox-prev" type="button" aria-label="Previous photo">&#8249;</button>' +
     '<img alt="">' +
     '<p class="lightbox-caption"></p>' +
-    '<button class="lightbox-next" type="button" aria-label="Next photo">&#8250;</button>';
+    '<button class="lightbox-next" type="button" aria-label="Next photo">&#8250;</button>' +
+    '<div class="lightbox-grid"></div>';
   document.body.appendChild(box);
 
-  var boxImg = box.querySelector("img");
+  var boxImg = box.querySelector(":scope > img");
   var boxCaption = box.querySelector(".lightbox-caption");
   var boxCount = box.querySelector(".lightbox-count");
   var prevBtn = box.querySelector(".lightbox-prev");
   var nextBtn = box.querySelector(".lightbox-next");
+  var allBtn = box.querySelector(".lightbox-all");
+  var allLabel = allBtn.querySelector("span");
+  var grid = box.querySelector(".lightbox-grid");
   var group = [];
   var index = 0;
   var opener = null;
+
+  function inGrid() { return box.classList.contains("is-grid"); }
 
   function show(i) {
     index = (i + group.length) % group.length;
@@ -243,10 +257,47 @@
     prevBtn.hidden = nextBtn.hidden = group.length < 2;
   }
 
-  function open(img) {
-    opener = img;
+  // One photo at a time (the usual view).
+  function showPhoto(i) {
+    box.classList.remove("is-grid");
+    allLabel.textContent = "View all";
+    show(i);
+  }
+
+  // Every photo in the gallery as a grid; choosing one shows it.
+  function showGrid() {
+    if (!grid.childElementCount) {
+      group.forEach(function (img, i) {
+        var thumb = document.createElement("button");
+        thumb.type = "button";
+        thumb.className = "lightbox-thumb";
+        thumb.setAttribute("aria-label", "Photo " + (i + 1) + (img.alt ? ": " + img.alt : ""));
+        var small = document.createElement("img");
+        small.loading = "lazy";
+        small.alt = "";
+        small.src = img.currentSrc || img.src;
+        thumb.appendChild(small);
+        thumb.addEventListener("click", function () { showPhoto(i); });
+        grid.appendChild(thumb);
+      });
+    }
+    box.classList.add("is-grid");
+    allLabel.textContent = "Back to photo";
+    boxCount.textContent = group.length + " photos";
+    boxImg.removeAttribute("src");
+    Array.prototype.forEach.call(grid.children, function (thumb, i) {
+      thumb.setAttribute("aria-current", i === index ? "true" : "false");
+    });
+    grid.children[index].scrollIntoView({ block: "nearest" });
+    grid.children[index].focus({ preventScroll: true });
+  }
+
+  function open(img, from) {
+    opener = from || img;
     group = groupFor(img);
-    show(group.indexOf(img));
+    grid.innerHTML = "";
+    allBtn.hidden = group.length < 2 || !img.closest(".gallery");
+    showPhoto(group.indexOf(img));
     box.hidden = false;
     document.body.style.overflow = "hidden";
     box.querySelector(".lightbox-close").focus();
@@ -254,7 +305,9 @@
 
   function close() {
     box.hidden = true;
+    box.classList.remove("is-grid");
     boxImg.removeAttribute("src");
+    grid.innerHTML = "";
     document.body.style.overflow = "";
     if (opener) opener.focus({ preventScroll: true });
   }
@@ -267,23 +320,45 @@
     });
   });
 
+  // Collapsed galleries: the button covers the first photo and opens the gallery.
+  document.querySelectorAll(".post-content .gallery").forEach(function (gallery) {
+    var photos = gallery.querySelectorAll("img");
+    if (photos.length < 2) return;
+    var first = photos[0];
+    var button = document.createElement("button");
+    button.type = "button";
+    button.className = "gallery-open";
+    button.setAttribute("aria-label", "View gallery, " + photos.length + " photos");
+    button.innerHTML = '<span class="gallery-open-label">' + GRID_ICON + "View gallery" +
+      ' <span class="gallery-open-count">' + photos.length + " photos</span></span>";
+    button.addEventListener("click", function () { open(first, button); });
+    first.tabIndex = -1; // the button takes focus instead
+    first.parentNode.appendChild(button);
+  });
+
   box.querySelector(".lightbox-close").addEventListener("click", close);
   prevBtn.addEventListener("click", function () { show(index - 1); });
   nextBtn.addEventListener("click", function () { show(index + 1); });
+  allBtn.addEventListener("click", function () {
+    if (inGrid()) showPhoto(index); else showGrid();
+  });
   box.addEventListener("click", function (e) { if (e.target === box) close(); });
 
   document.addEventListener("keydown", function (e) {
     if (box.hidden) return;
-    if (e.key === "Escape") close();
-    else if (e.key === "ArrowLeft") show(index - 1);
+    if (e.key === "Escape") {
+      if (inGrid()) showPhoto(index); else close();
+    } else if (inGrid()) {
+      return; // arrow keys scroll the grid
+    } else if (e.key === "ArrowLeft") show(index - 1);
     else if (e.key === "ArrowRight") show(index + 1);
   });
 
-  // Swipe left/right on touch screens.
+  // Swipe left/right on touch screens (not in the grid, which scrolls).
   var touchX = null;
   box.addEventListener("touchstart", function (e) { touchX = e.touches[0].clientX; }, { passive: true });
   box.addEventListener("touchend", function (e) {
-    if (touchX === null) return;
+    if (touchX === null || inGrid()) { touchX = null; return; }
     var dx = e.changedTouches[0].clientX - touchX;
     if (Math.abs(dx) > 50) show(index + (dx < 0 ? 1 : -1));
     touchX = null;
