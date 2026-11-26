@@ -19,7 +19,24 @@
   <script src="{{ '/assets/js/site.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
   {%- if site.cloudflare_analytics_token and site.cloudflare_analytics_token != "" and jekyll.environment == "production" %}
   {%- comment -%} Cookieless, so it needs no consent; only production builds load it, so previews aren't counted. {%- endcomment %}
-  <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "{{ site.cloudflare_analytics_token }}"}'></script>
+  {%- comment -%} Opt-out for the site owner: visiting any page with ?analytics=off stops this browser loading analytics, and ?analytics=on starts it again. If storage is blocked, analytics load as normal. {%- endcomment %}
+  <script>
+    (function () {
+      var KEY = "analytics-off";
+      try {
+        var choice = new URLSearchParams(location.search).get("analytics");
+        if (choice === "off") localStorage.setItem(KEY, "1");
+        else if (choice === "on") localStorage.removeItem(KEY);
+        if (choice) console.info("Cloudflare Web Analytics " + (choice === "off" ? "turned off" : "turned on") + " for this browser.");
+        if (localStorage.getItem(KEY)) return;
+      } catch (e) { /* storage blocked: load analytics */ }
+      var beacon = document.createElement("script");
+      beacon.defer = true;
+      beacon.src = "https://static.cloudflareinsights.com/beacon.min.js";
+      beacon.setAttribute("data-cf-beacon", JSON.stringify({ token: {{ site.cloudflare_analytics_token | jsonify }} }));
+      document.head.appendChild(beacon);
+    })();
+  </script>
   {%- endif %}
 </head>
 <body>
