@@ -3,6 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  {%- comment -%} Marks that JavaScript runs, before the page first draws, so the CSS can collapse galleries without readers who have it turned off losing their photos. {%- endcomment %}
+  <script>document.documentElement.classList.add("js");</script>
   {% seo %}
   {% feed_meta %}
   {% if site.logo %}
