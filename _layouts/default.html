@@ -11,9 +11,10 @@
   <link rel="icon" href="{{ site.logo | relative_url }}">
   <link rel="apple-touch-icon" href="{{ site.logo | relative_url }}">
   {% endif %}
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Lora:ital,wght@0,400;0,700;1,400;1,700&display=swap">
+  {%- comment -%} Fonts are self-hosted (see style.css); preload the ones every page uses above the fold. {%- endcomment %}
+  <link rel="preload" href="{{ '/assets/fonts/lora-normal-latin.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="{{ '/assets/fonts/lato-normal-latin-400.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="{{ '/assets/fonts/lato-normal-latin-700.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
   {%- comment -%} GitHub Pages lets browsers keep files for 10 minutes; a new address per build means a new page never gets old styles. {%- endcomment %}
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v={{ site.time | date: '%s' }}">
   <script src="{{ '/assets/js/site.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
