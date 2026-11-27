@@ -40,8 +40,6 @@ While I'm sure there will be people critical of these plans, particularly when w
 
 We might not get everything right first time, but if we can deliver something close to a usable network of safe routes, then we will have come a long way.
 
-[![YouTube video](https://img.youtube.com/vi/1tvYlUH9YRo/hqdefault.jpg)](https://www.youtube.com/watch?v=1tvYlUH9YRo)
-
 I think Andy Burnham and Chris Boardman should be applauded for having the vision and commitment to come this far. I sincerely hope they get the support they need to deliver this plan and we see a true walking and cycling revolution in Greater Manchester.
 
 Now, let's get on and build it!
