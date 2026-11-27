@@ -2,7 +2,7 @@
 <article class="card">
   {% if card.image %}
   <a class="card-image" href="{{ card.url | relative_url }}" tabindex="-1" aria-hidden="true">
-    <img src="{{ card.image | relative_url }}" alt="" loading="lazy">
+    <img src="{{ card.image | relative_url }}" alt="" {% if include.priority %}fetchpriority="high"{% elsif include.eager == nil %}loading="lazy"{% endif %}>
   </a>
   {% endif %}
   <div class="card-body">
